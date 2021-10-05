@@ -1,7 +1,7 @@
 {
     "elements": [
         {
-            "name": "Hydrogen 1 test",
+            "name": "Equity",
             "appearance": "colorless gas",
             "atomic_mass": 1.008,
             "boil": 20.271,
@@ -12,13 +12,13 @@
             "melt": 13.99,
             "molar_heat": 28.836,
             "named_by": "Antoine Lavoisier",
-            "number": 24,
+            "number": 22,
             "period": 1,
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Hydrogen",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Hydrogen_Spectra.jpg",
             "summary": "Hydrogen is a chemical element with chemical symbol H and atomic number 1. With an atomic weight of 1.00794 u, hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass.",
-            "symbol": "H",
+            "symbol": "Equity",
             "xpos": 1,
             "ypos": 1,
             "shells": [
@@ -34,7 +34,7 @@
             "cpk-hex": "ffffff"
         },
         {
-            "name": "Helium",
+            "name": "Stock Options",
             "appearance": "colorless gas, exhibiting a red-orange glow when placed in a high-voltage electric field",
             "atomic_mass": 4.0026022,
             "boil": 4.222,
@@ -51,7 +51,7 @@
             "source": "https://en.wikipedia.org/wiki/Helium",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Helium_spectrum.jpg",
             "summary": "Helium is a chemical element with symbol He and atomic number 2. It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas that heads the noble gas group in the periodic table. Its boiling and melting points are the lowest among all the elements.",
-            "symbol": "He",
+            "symbol": "Stock Options",
             "xpos": 18,
             "ypos": 1,
             "shells": [
@@ -68,7 +68,7 @@
             "cpk-hex": "d9ffff"
         },
         {
-            "name": "Lithium",
+            "name": "CCPS",
             "appearance": "silvery-white",
             "atomic_mass": 6.94,
             "boil": 1603,
@@ -85,7 +85,7 @@
             "source": "https://en.wikipedia.org/wiki/Lithium",
             "spectral_img": null,
             "summary": "Lithium (from Greek:λίθος lithos, \"stone\") is a chemical element with the symbol Li and atomic number 3. It is a soft, silver-white metal belonging to the alkali metal group of chemical elements. Under standard conditions it is the lightest metal and the least dense solid element.",
-            "symbol": "Li",
+            "symbol": "CCPS",
             "xpos": 1,
             "ypos": 2,
             "shells": [
@@ -104,7 +104,7 @@
             "cpk-hex": "cc80ff"
         },
         {
-            "name": "Beryllium",
+            "name": "OCPS",
             "appearance": "white-gray metallic",
             "atomic_mass": 9.01218315,
             "boil": 2742,
@@ -120,8 +120,8 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Beryllium",
             "spectral_img": null,
-            "summary": "Beryllium is a chemical element with symbol Be and atomic number 4. It is created through stellar nucleosynthesis and is a relatively rare element in the universe. It is a divalent element which occurs naturally only in combination with other elements in minerals.",
-            "symbol": "Be",
+            "summary": "Optionally Convertible Preference Shares(OCPS) give the holder  flexibility to either redeem the shares or convert to equity. Typically, the redemption or conversion is linked to a certain date or event.",
+            "symbol": "OCPS",
             "xpos": 2,
             "ypos": 2,
             "shells": [
@@ -141,7 +141,7 @@
             "cpk-hex": "c2ff00"
         },
         {
-            "name": "Boron",
+            "name": "Option Plan",
             "appearance": "black-brown",
             "atomic_mass": 10.81,
             "boil": 4200,
@@ -158,7 +158,7 @@
             "source": "https://en.wikipedia.org/wiki/Boron",
             "spectral_img": null,
             "summary": "Boron is a metalloid chemical element with symbol B and atomic number 5. Produced entirely by cosmic ray spallation and supernovae and not by stellar nucleosynthesis, it is a low-abundance element in both the Solar system and the Earth's crust. Boron is concentrated on Earth by the water-solubility of its more common naturally occurring compounds, the borate minerals.",
-            "symbol": "B",
+            "symbol": "Option Plan",
             "xpos": 13,
             "ypos": 2,
             "shells": [
@@ -179,7 +179,7 @@
             "cpk-hex": "ffb5b5"
         },
         {
-            "name": "Carbon",
+            "name": "Option Pool",
             "appearance": null,
             "atomic_mass": 12.011,
             "boil": null,
@@ -195,8 +195,8 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Carbon",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Carbon_Spectra.jpg",
-            "summary": "Carbon (from Latin:carbo \"coal\") is a chemical element with symbol C and atomic number 6. On the periodic table, it is the first (row 2) of six elements in column (group) 14, which have in common the composition of their outer electron shell. It is nonmetallic and tetravalent—making four electrons available to form covalent chemical bonds.",
-            "symbol": "C",
+            "summary": "Percentage of the company’s stock locked for issue to employees and other stakeholders in the future is termed as stock option pool.  Typically, the stock option pool is between 5- 15%.",
+            "symbol": "Option Pool",
             "xpos": 14,
             "ypos": 2,
             "shells": [
@@ -218,7 +218,7 @@
             "cpk-hex": "909090"
         },
         {
-            "name": "Nitrogen",
+            "name": "SAR (Phantom)",
             "appearance": "colorless gas, liquid or solid",
             "atomic_mass": 14.007,
             "boil": 77.355,
@@ -235,7 +235,7 @@
             "source": "https://en.wikipedia.org/wiki/Nitrogen",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Nitrogen_Spectra.jpg",
             "summary": "Nitrogen is a chemical element with symbol N and atomic number 7. It is the lightest pnictogen and at room temperature, it is a transparent, odorless diatomic gas. Nitrogen is a common element in the universe, estimated at about seventh in total abundance in the Milky Way and the Solar System.",
-            "symbol": "N",
+            "symbol": "SAR",
             "xpos": 15,
             "ypos": 2,
             "shells": [
@@ -258,7 +258,7 @@
             "cpk-hex": "3050f8"
         },
         {
-            "name": "Oxygen",
+            "name": "ESPP",
             "appearance": null,
             "atomic_mass": 15.999,
             "boil": 90.188,
@@ -275,7 +275,7 @@
             "source": "https://en.wikipedia.org/wiki/Oxygen",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Oxygen_spectre.jpg",
             "summary": "Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium.",
-            "symbol": "O",
+            "symbol": "ESPP",
             "xpos": 16,
             "ypos": 2,
             "shells": [
@@ -299,7 +299,7 @@
             "cpk-hex": "ff0d0d"
         },
         {
-            "name": "Fluorine",
+            "name": "Employee Trust",
             "appearance": null,
             "atomic_mass": 18.9984031636,
             "boil": 85.03,
@@ -315,8 +315,9 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Fluorine",
             "spectral_img": null,
-            "summary": "Fluorine is a chemical element with symbol F and atomic number 9. It is the lightest halogen and exists as a highly toxic pale yellow diatomic gas at standard conditions. As the most electronegative element, it is extremely reactive:almost all other elements, including some noble gases, form compounds with fluorine.",
-            "symbol": "F",
+            "summary": "Companies can issue stock options under different plans. Under the trust plan, the legal ownership of shares is granted to a trust who will then issue the shares to the employees of the company.
+             Employees who are issued stock options under this plan are granted all economic benefits of ownership of shares while legal ownership remains with the Trust.",
+            "symbol": "Employee Trust",
             "xpos": 17,
             "ypos": 2,
             "shells": [
@@ -341,7 +342,7 @@
             "cpk-hex": "90e050"
         },
         {
-            "name": "Neon",
+            "name": "MSOP",
             "appearance": "colorless gas exhibiting an orange-red glow when placed in a high voltage electric field",
             "atomic_mass": 20.17976,
             "boil": 27.104,
@@ -357,8 +358,8 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Neon",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Neon_spectra.jpg",
-            "summary": "Neon is a chemical element with symbol Ne and atomic number 10. It is in group 18 (noble gases) of the periodic table. Neon is a colorless, odorless, inert monatomic gas under standard conditions, with about two-thirds the density of air.",
-            "symbol": "Ne",
+            "summary": "Management Stock Options are provided to the key managerial team of the company enabling them to receive the percentage of stock of the company upon exercise.",
+            "symbol": "MSOP",
             "xpos": 18,
             "ypos": 2,
             "shells": [

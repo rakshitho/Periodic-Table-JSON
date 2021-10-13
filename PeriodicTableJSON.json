@@ -17,7 +17,7 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Hydrogen",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Hydrogen_Spectra.jpg",
-            "summary": "Hydrogen is a chemical element with chemical symbol H and atomic number 1. With an atomic weight of 1.00794 u, hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass.",
+            "summary": "Equity is the difference between the assets and liabilities of the company. It represents ownership in the company.",
             "symbol": "Equity",
             "xpos": 1,
             "ypos": 1,
@@ -50,7 +50,7 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Helium",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Helium_spectrum.jpg",
-            "summary": "Helium is a chemical element with symbol He and atomic number 2. It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas that heads the noble gas group in the periodic table. Its boiling and melting points are the lowest among all the elements.",
+            "summary": "",
             "symbol": "Stock Options",
             "xpos": 18,
             "ypos": 1,
@@ -84,7 +84,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Lithium",
             "spectral_img": null,
-            "summary": "Lithium (from Greek:λίθος lithos, \"stone\") is a chemical element with the symbol Li and atomic number 3. It is a soft, silver-white metal belonging to the alkali metal group of chemical elements. Under standard conditions it is the lightest metal and the least dense solid element.",
+            "summary": "",
             "symbol": "CCPS",
             "xpos": 1,
             "ypos": 2,
@@ -157,7 +157,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Boron",
             "spectral_img": null,
-            "summary": "Boron is a metalloid chemical element with symbol B and atomic number 5. Produced entirely by cosmic ray spallation and supernovae and not by stellar nucleosynthesis, it is a low-abundance element in both the Solar system and the Earth's crust. Boron is concentrated on Earth by the water-solubility of its more common naturally occurring compounds, the borate minerals.",
+            "summary": "Data Missingh",
             "symbol": "Option Plan",
             "xpos": 13,
             "ypos": 2,
@@ -234,7 +234,7 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Nitrogen",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Nitrogen_Spectra.jpg",
-            "summary": "Nitrogen is a chemical element with symbol N and atomic number 7. It is the lightest pnictogen and at room temperature, it is a transparent, odorless diatomic gas. Nitrogen is a common element in the universe, estimated at about seventh in total abundance in the Milky Way and the Solar System.",
+            "summary": "",
             "symbol": "SAR",
             "xpos": 15,
             "ypos": 2,
@@ -274,7 +274,7 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Oxygen",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Oxygen_spectre.jpg",
-            "summary": "Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium.",
+            "summary": "",
             "symbol": "ESPP",
             "xpos": 16,
             "ypos": 2,
@@ -315,7 +315,7 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Fluorine",
             "spectral_img": null,
-            "summary": "Companies can issue stock options under different plans. Under the trust plan, the legal ownership of shares is granted to a trust who will then issue the shares to the employees of the company.",
+            "summary": "Companies can issue stock options under different plans. Under the trust plan, the legal ownership of shares is granted to a trust who will then issue the shares to the employees of the company.\n  Employees who are issued stock options under this plan are granted all economic benefits of ownership of shares while legal ownership remains with the Trust. ",
             "symbol": "Employee Trust",
             "xpos": 17,
             "ypos": 2,
@@ -384,7 +384,7 @@
             "cpk-hex": "b3e3f5"
         },
         {
-            "name": "Sodium",
+            "name": "Note",
             "appearance": "silvery white metallic",
             "atomic_mass": 22.989769282,
             "boil": 1156.09,
@@ -400,7 +400,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Sodium",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Sodium_Spectra.jpg",
-            "summary": "Sodium /ˈsoʊdiəm/ is a chemical element with symbol Na (from Ancient Greek Νάτριο) and atomic number 11. It is a soft, silver-white, highly reactive metal. In the Periodic table it is in column 1 (alkali metals), and shares with the other six elements in that column that it has a single electron in its outer shell, which it readily donates, creating a positively charged atom - a cation.",
+            "summary": "",
             "symbol": "Na",
             "xpos": 1,
             "ypos": 3,
@@ -429,7 +429,7 @@
             "cpk-hex": "ab5cf2"
         },
         {
-            "name": "Magnesium",
+            "name": "SAFE",
             "appearance": "shiny grey solid",
             "atomic_mass": 24.305,
             "boil": 1363,
@@ -445,7 +445,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Magnesium",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Magnesium_Spectra.jpg",
-            "summary": "Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column (Group 2, or alkaline earth metals) of the periodic table:they each have the same electron configuration in their outer electron shell producing a similar crystal structure. Magnesium is the ninth most abundant element in the universe.",
+            "summary": "SAFE is an instrument that allows the investor to receive shares for the money invested on the occurrence of a predetermined trigger event.",
             "symbol": "Mg",
             "xpos": 2,
             "ypos": 3,
@@ -475,7 +475,7 @@
             "cpk-hex": "8aff00"
         },
         {
-            "name": "Aluminium",
+            "name": "Grant",
             "appearance": "silvery gray metallic",
             "atomic_mass": 26.98153857,
             "boil": 2743,
@@ -491,7 +491,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Aluminium",
             "spectral_img": null,
-            "summary": "Aluminium (or aluminum; see different endings) is a chemical element in the boron group with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic, ductile metal. Aluminium is the third most abundant element (after oxygen and silicon), and the most abundant metal, in the Earth's crust.",
+            "summary": "Awarding stock options to the employees is called ‘Grant’. All the terms of the grant have to be captured in the grant letter. These terms mostly include- number of options being granted, cliff, grant date, grant price, vesting period, vesting conditions, exercise price, exercise period etc.",
             "symbol": "Al",
             "xpos": 13,
             "ypos": 3,
@@ -522,7 +522,7 @@
             "cpk-hex": "bfa6a6"
         },
         {
-            "name": "Silicon",
+            "name": "Vesting",
             "appearance": "crystalline, reflective with bluish-tinged faces",
             "atomic_mass": 28.085,
             "boil": 3538,
@@ -538,7 +538,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Silicon",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Silicon_Spectra.jpg",
-            "summary": "Silicon is a chemical element with symbol Si and atomic number 14. It is a tetravalent metalloid, more reactive than germanium, the metalloid directly below it in the table. Controversy about silicon's character dates to its discovery.",
+            "summary": "Vesting is the process whereby the employee earns the right to purchase the shares of the company. An employee becomes eligible to vest options only when all the vesting conditions as specified in the grant letter have been met. These vesting conditions may be linked to time or performance.",
             "symbol": "Si",
             "xpos": 14,
             "ypos": 3,
@@ -570,7 +570,7 @@
             "cpk-hex": "f0c8a0"
         },
         {
-            "name": "Phosphorus",
+            "name": "Vesting Schedule",
             "appearance": "colourless, waxy white, yellow, scarlet, red, violet, black",
             "atomic_mass": 30.9737619985,
             "boil": null,
@@ -586,7 +586,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Phosphorus",
             "spectral_img": null,
-            "summary": "Phosphorus is a chemical element with symbol P and atomic number 15. As an element, phosphorus exists in two major forms—white phosphorus and red phosphorus—but due to its high reactivity, phosphorus is never found as a free element on Earth. Instead phosphorus-containing minerals are almost always present in their maximally oxidised state, as inorganic phosphate rocks.",
+            "summary": " This is the time period over which the options granted  vest. ",
             "symbol": "P",
             "xpos": 15,
             "ypos": 3,
@@ -619,7 +619,7 @@
             "cpk-hex": "ff8000"
         },
         {
-            "name": "Sulfur",
+            "name": "Strike Price",
             "appearance": "lemon yellow sintered microcrystals",
             "atomic_mass": 32.06,
             "boil": 717.8,
@@ -635,7 +635,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Sulfur",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Sulfur_Spectrum.jpg",
-            "summary": "Sulfur or sulphur (see spelling differences) is a chemical element with symbol S and atomic number 16. It is an abundant, multivalent non-metal. Under normal conditions, sulfur atoms form cyclic octatomic molecules with chemical formula S8.",
+            "summary": "This is the price at which the options can be sold in the market. ",
             "symbol": "S",
             "xpos": 16,
             "ypos": 3,
@@ -669,7 +669,7 @@
             "cpk-hex": "ffff30"
         },
         {
-            "name": "Chlorine",
+            "name": "Exercise",
             "appearance": "pale yellow-green gas",
             "atomic_mass": 35.45,
             "boil": 239.11,
@@ -685,7 +685,7 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Chlorine",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Chlorine_spectrum_visible.png",
-            "summary": "Chlorine is a chemical element with symbol Cl and atomic number 17. It also has a relative atomic mass of 35.5. Chlorine is in the halogen group (17) and is the second lightest halogen following fluorine.",
+            "summary": "Exercise is the right to purchase the shares of the company. Once the employees fulfil the vesting conditions provided in the ESOP plan, they can convert their options to the shares of the company. Shares are bought at the exercise price mentioned in the grant letter at the time of offering the shares to the employees. ",
             "symbol": "Cl",
             "xpos": 17,
             "ypos": 3,
@@ -720,7 +720,7 @@
             "cpk-hex": "1ff01f"
         },
         {
-            "name": "Argon",
+            "name": "RSU",
             "appearance": "colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field",
             "atomic_mass": 39.9481,
             "boil": 87.302,
@@ -736,7 +736,7 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Argon",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Argon_Spectrum.png",
-            "summary": "Argon is a chemical element with symbol Ar and atomic number 18. It is in group 18 of the periodic table and is a noble gas. Argon is the third most common gas in the Earth's atmosphere, at 0.934% (9,340 ppmv), making it over twice as abundant as the next most common atmospheric gas, water vapor (which averages about 4000 ppmv, but varies greatly), and 23 times as abundant as the next most common non-condensing atmospheric gas, carbon dioxide (400 ppmv), and more than 500 times as abundant as the next most common noble gas, neon (18 ppmv).",
+            "summary": "",
             "symbol": "Ar",
             "xpos": 18,
             "ypos": 3,
@@ -772,7 +772,7 @@
             "cpk-hex": "80d1e3"
         },
         {
-            "name": "Potassium",
+            "name": "CCD",
             "appearance": "silvery gray",
             "atomic_mass": 39.09831,
             "boil": 1032,
@@ -788,7 +788,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Potassium",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Potassium_Spectrum.jpg",
-            "summary": "Potassium is a chemical element with symbol K (derived from Neo-Latin, kalium) and atomic number 19. It was first isolated from potash, the ashes of plants, from which its name is derived. In the Periodic table, potassium is one of seven elements in column (group) 1 (alkali metals):they all have a single valence electron in their outer electron shell, which they readily give up to create an atom with a positive charge - a cation, and combine with anions to form salts.",
+            "summary": "",
             "symbol": "K",
             "xpos": 1,
             "ypos": 4,
@@ -826,7 +826,7 @@
             "cpk-hex": "8f40d4"
         },
         {
-            "name": "Calcium",
+            "name": "NCD",
             "appearance": null,
             "atomic_mass": 40.0784,
             "boil": 1757,
@@ -842,7 +842,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Calcium",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Calcium_Spectrum.png",
-            "summary": "Calcium is a chemical element with symbol Ca and atomic number 20. Calcium is a soft gray alkaline earth metal, fifth-most-abundant element by mass in the Earth's crust. The ion Ca2+ is also the fifth-most-abundant dissolved ion in seawater by both molarity and mass, after sodium, chloride, magnesium, and sulfate.",
+            "summary": "NCD’s are debt instruments that do not carry an option to convert to equity. They are securities issued by the company acknowledging debt. The NCD holders receive interest for a fixed period of time. Companies issue NCDs if they want to raise capital without the need to issue equity, avoiding dilution in the shareholding of the existing shareholders altogether.",
             "symbol": "Ca",
             "xpos": 2,
             "ypos": 4,
@@ -881,7 +881,7 @@
             "cpk-hex": "3dff00"
         },
         {
-            "name": "Scandium",
+            "name": "Term Sheet",
             "appearance": "silvery white",
             "atomic_mass": 44.9559085,
             "boil": 3109,
@@ -897,7 +897,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Scandium",
             "spectral_img": null,
-            "summary": "Scandium is a chemical element with symbol Sc and atomic number 21. A silvery-white metallic d-block element, it has historically been sometimes classified as a rare earth element, together with yttrium and the lanthanoids. It was discovered in 1879 by spectral analysis of the minerals euxenite and gadolinite from Scandinavia.",
+            "summary": "A term sheet is a non-binding commitment (usually, though not always) made by - (a) an investor to invest into a company, and (b) the company to accept such investment. The term sheet sets the base around which the shareholder agreement is crafted. It is therefore important that you are careful about what you sign. This does not mean that the term sheet is a gospel. Some changes are okay. Not too many.",
             "symbol": "Sc",
             "xpos": 3,
             "ypos": 4,
@@ -937,7 +937,7 @@
             "cpk-hex": "e6e6e6"
         },
         {
-            "name": "Titanium",
+            "name": "SHA",
             "appearance": "silvery grey-white metallic",
             "atomic_mass": 47.8671,
             "boil": 3560,
@@ -953,7 +953,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Titanium",
             "spectral_img": null,
-            "summary": "Titanium is a chemical element with symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia and chlorine.",
+            "summary": "The shareholders’ agreement is a binding contract that governs the shareholders vis-a-vis the company and its shares. The terms in the shareholders agreement are binding to the parties of the investment deal. The common terms of a shareholders agreement include - the value of the company, securities being offered, ESOP pool, liquidation preference, anti-dilution, governance, voting rights, transfer of shares, exit rights etc. A well drafted shareholders agreement brings the parties of the investment on a common page ensuring clarity and smooth closing of the investment deal",
             "symbol": "Ti",
             "xpos": 4,
             "ypos": 4,
@@ -994,7 +994,7 @@
             "cpk-hex": "bfc2c7"
         },
         {
-            "name": "Vanadium",
+            "name": "SSA",
             "appearance": "blue-silver-grey metal",
             "atomic_mass": 50.94151,
             "boil": 3680,
@@ -1010,7 +1010,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Vanadium",
             "spectral_img": null,
-            "summary": "Vanadium is a chemical element with symbol V and atomic number 23. It is a hard, silvery grey, ductile and malleable transition metal. The element is found only in chemically combined form in nature, but once isolated artificially, the formation of an oxide layer stabilizes the free metal somewhat against further oxidation.",
+            "summary": "Share subscription agreement is the agreement executed between the company and the investor where the company guarantees to issue a certain number of shares to the investor in exchange for funds.",
             "symbol": "V",
             "xpos": 5,
             "ypos": 4,
@@ -1052,7 +1052,7 @@
             "cpk-hex": "a6a6ab"
         },
         {
-            "name": "Chromium",
+            "name": "AOA",
             "appearance": "silvery metallic",
             "atomic_mass": 51.99616,
             "boil": 2944,
@@ -1068,7 +1068,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Chromium",
             "spectral_img": null,
-            "summary": "Chromium is a chemical element with symbol Cr and atomic number 24. It is the first element in Group 6. It is a steely-gray, lustrous, hard and brittle metal which takes a high polish, resists tarnishing, and has a high melting point.",
+            "summary": "",
             "symbol": "Cr",
             "xpos": 6,
             "ypos": 4,
@@ -1111,7 +1111,7 @@
             "cpk-hex": "8a99c7"
         },
         {
-            "name": "Manganese",
+            "name": "MOA",
             "appearance": "silvery metallic",
             "atomic_mass": 54.9380443,
             "boil": 2334,
@@ -1127,7 +1127,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Manganese",
             "spectral_img": null,
-            "summary": "Manganese is a chemical element with symbol Mn and atomic number 25. It is not found as a free element in nature; it is often found in combination with iron, and in many minerals. Manganese is a metal with important industrial metal alloy uses, particularly in stainless steels.",
+            "summary": "Memorandum of Association is a legal document of the company that defines the operational scope of the company and contains details of its name, registered address, objectives, authorized capital, liability of the members and the subscribers to the memorandum. It is the charter of the company and is one of the most important document required to incorporate the company. All activities of the company must always be conducted within the operational scope defined in the memorandum.",
             "symbol": "Mn",
             "xpos": 7,
             "ypos": 4,
@@ -1171,7 +1171,7 @@
             "cpk-hex": "9c7ac7"
         },
         {
-            "name": "Iron",
+            "name": "Pre Money",
             "appearance": "lustrous metallic with a grayish tinge",
             "atomic_mass": 55.8452,
             "boil": 3134,
@@ -1187,7 +1187,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Iron",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Iron_Spectrum.jpg",
-            "summary": "Iron is a chemical element with symbol Fe (from Latin:ferrum) and atomic number 26. It is a metal in the first transition series. It is by mass the most common element on Earth, forming much of Earth's outer and inner core.",
+            "summary": "Pre-money valuation is the value of the company as agreed by the investor and the company prior to a new round of financing/investment. The valuation amount is set considering various factors like the company’s nature of business, revenue growth, sales, competitors, market etc.",
             "symbol": "Fe",
             "xpos": 8,
             "ypos": 4,
@@ -1232,7 +1232,7 @@
             "cpk-hex": "e06633"
         },
         {
-            "name": "Cobalt",
+            "name": "Post Money",
             "appearance": "hard lustrous gray metal",
             "atomic_mass": 58.9331944,
             "boil": 3200,
@@ -1248,7 +1248,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Cobalt",
             "spectral_img": null,
-            "summary": "Cobalt is a chemical element with symbol Co and atomic number 27. Like nickel, cobalt in the Earth's crust is found only in chemically combined form, save for small deposits found in alloys of natural meteoric iron. The free element, produced by reductive smelting, is a hard, lustrous, silver-gray metal.",
+            "summary": "The value of the company after a new round of financing is the post money valuation of the company. Post- money valuation is pre- money valuation of the company plus the investment amount received in the new round.",
             "symbol": "Co",
             "xpos": 9,
             "ypos": 4,
@@ -1294,7 +1294,7 @@
             "cpk-hex": "f090a0"
         },
         {
-            "name": "Nickel",
+            "name": "Dilution",
             "appearance": "lustrous, metallic, and silver with a gold tinge",
             "atomic_mass": 58.69344,
             "boil": 3003,
@@ -1310,7 +1310,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Nickel",
             "spectral_img": null,
-            "summary": "Nickel is a chemical element with symbol Ni and atomic number 28. It is a silvery-white lustrous metal with a slight golden tinge. Nickel belongs to the transition metals and is hard and ductile.",
+            "summary": "",
             "symbol": "Ni",
             "xpos": 10,
             "ypos": 4,
@@ -1357,7 +1357,7 @@
             "cpk-hex": "50d050"
         },
         {
-            "name": "Copper",
+            "name": "LP",
             "appearance": "red-orange metallic luster",
             "atomic_mass": 63.5463,
             "boil": 2835,
@@ -1373,7 +1373,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Copper",
             "spectral_img": null,
-            "summary": "Copper is a chemical element with symbol Cu (from Latin:cuprum) and atomic number 29. It is a soft, malleable and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a reddish-orange color.",
+            "summary": "When a company goes into liquidation, preference shareholders are entitled to return of capital invested by them. The liquidation preference clause provides the terms on when and how much of the capital will be returned to the shareholders in the event of liquidation. Standard terms are ‘Rank’ and ‘Participation’. /n  Rank decides the order in which the capital is returned to the investors. The preference shareholders are always ranked before the equity shareholders. /n Participation decides the amount of proceeds payable to the investors. This could be 1x, 2x of the capital amount invested etc.",
             "symbol": "Cu",
             "xpos": 11,
             "ypos": 4,
@@ -1421,7 +1421,7 @@
             "cpk-hex": "c88033"
         },
         {
-            "name": "Zinc",
+            "name": "Anti Dilution",
             "appearance": "silver-gray",
             "atomic_mass": 65.382,
             "boil": 1180,
@@ -1437,7 +1437,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Zinc",
             "spectral_img": null,
-            "summary": "Zinc, in commerce also spelter, is a chemical element with symbol Zn and atomic number 30. It is the first element of group 12 of the periodic table. In some respects zinc is chemically similar to magnesium:its ion is of similar size and its only common oxidation state is +2.",
+            "summary": "A right/provision given to an existing shareholder to avoid dilution of their equity holding when the company issues shares in a new round at a price lower than the price originally paid by the preference shareholder for the same class of shares.  The anti-dilution provision protects the shareholders and maintains their capital, compensating them on the basis of their existing shareholding in the company. New additional shares are issued to the existing shareholders based on the issue price of the shares in the new round. In these scenarios the dilution can be calculated either on full-ratchet basis or weighted average basis.",
             "symbol": "Zn",
             "xpos": 12,
             "ypos": 4,
@@ -1477,7 +1477,7 @@
             "cpk-hex": "7d80b0"
         },
         {
-            "name": "Gallium",
+            "name": "Founder Vesting",
             "appearance": "silver-white",
             "atomic_mass": 69.7231,
             "boil": 2673,
@@ -1493,7 +1493,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Gallium",
             "spectral_img": null,
-            "summary": "Gallium is a chemical element with symbol Ga and atomic number 31. Elemental gallium does not occur in free form in nature, but as the gallium(III) compounds that are in trace amounts in zinc ores and in bauxite. Gallium is a soft, silvery metal, and elemental gallium is a brittle solid at low temperatures, and melts at 29.76 °C (85.57 °F) (slightly above room temperature).",
+            "summary": "Founders are often allotted stock options of the company for all efforts put in for the formation of the company. The terms of vesting are typically captured in the founders agreement. This is very important. ",
             "symbol": "Ga",
             "xpos": 13,
             "ypos": 4,
@@ -1516,7 +1516,7 @@
             "cpk-hex": "c28f8f"
         },
         {
-            "name": "Germanium",
+            "name": "Lock In",
             "appearance": "grayish-white",
             "atomic_mass": 72.6308,
             "boil": 3106,
@@ -1532,7 +1532,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Germanium",
             "spectral_img": null,
-            "summary": "Germanium is a chemical element with symbol Ge and atomic number 32. It is a lustrous, hard, grayish-white metalloid in the carbon group, chemically similar to its group neighbors tin and silicon. Purified germanium is a semiconductor, with an appearance most similar to elemental silicon.",
+            "summary": "Investors insist that some or all of the shares held by the founders cannot be transferred without approval of the investors.  With each passing round, founders can request for a higher amount of liquidity. Later stage investors are often more comfortable providing liquidity to founders.",
             "symbol": "Ge",
             "xpos": 14,
             "ypos": 4,
@@ -1556,7 +1556,7 @@
             "cpk-hex": "668f8f"
         },
         {
-            "name": "Arsenic",
+            "name": "Cliff",
             "appearance": "metallic grey",
             "atomic_mass": 74.9215956,
             "boil": null,
@@ -1572,7 +1572,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Arsenic",
             "spectral_img": null,
-            "summary": "Arsenic is a chemical element with symbol As and atomic number 33. Arsenic occurs in many minerals, usually in conjunction with sulfur and metals, and also as a pure elemental crystal. Arsenic is a metalloid.",
+            "summary": "Cliff is the minimum amount of time that has to pass before the options start to vest. In India, the minimum cliff period is one year. All ESOP plans mention the period of cliff. If at a given time, the employees leave the organization during the cliff period, then no options will vest. ",
             "symbol": "As",
             "xpos": 15,
             "ypos": 4,
@@ -1597,7 +1597,7 @@
             "cpk-hex": "bd80e3"
         },
         {
-            "name": "Selenium",
+            "name": "Acceleration",
             "appearance": "black, red, and gray (not pictured) allotropes",
             "atomic_mass": 78.9718,
             "boil": 958,
@@ -1613,7 +1613,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Selenium",
             "spectral_img": null,
-            "summary": "Selenium is a chemical element with symbol Se and atomic number 34. It is a nonmetal with properties that are intermediate between those of its periodic table column-adjacent chalcogen elements sulfur and tellurium. It rarely occurs in its elemental state in nature, or as pure ore compounds.",
+            "summary": "An event that leads to conversion of stock to equity overruling the vesting conditions of the company i.e. the conversion of stock to equity happens before the expiration of the vesting period. Typical scenarios that lead to acceleration of stock options issale of the company, merger, demerger etc. ",
             "symbol": "Se",
             "xpos": 16,
             "ypos": 4,
@@ -1639,7 +1639,7 @@
             "cpk-hex": "ffa100"
         },
         {
-            "name": "Bromine",
+            "name": "Single Trigger",
             "appearance": null,
             "atomic_mass": 79.904,
             "boil": 332,
@@ -1655,7 +1655,7 @@
             "phase": "Liquid",
             "source": "https://en.wikipedia.org/wiki/Bromine",
             "spectral_img": null,
-            "summary": "Bromine (from Ancient Greek:βρῶμος, brómos, meaning \"stench\") is a chemical element with symbol Br, and atomic number 35. It is a halogen. The element was isolated independently by two chemists, Carl Jacob Löwig and Antoine Jerome Balard, in 1825–1826.",
+            "summary": "If the vesting happens on account of any single event or factor, then it is termed as a single trigger.",
             "symbol": "Br",
             "xpos": 17,
             "ypos": 4,
@@ -1682,7 +1682,7 @@
             "cpk-hex": "a62929"
         },
         {
-            "name": "Krypton",
+            "name": "Double Trigger",
             "appearance": "colorless gas, exhibiting a whitish glow in a high electric field",
             "atomic_mass": 83.7982,
             "boil": 119.93,
@@ -1698,7 +1698,7 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Krypton",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Krypton_Spectrum.jpg",
-            "summary": "Krypton (from Greek:κρυπτός kryptos \"the hidden one\") is a chemical element with symbol Kr and atomic number 36. It is a member of group 18 (noble gases) elements. A colorless, odorless, tasteless noble gas, krypton occurs in trace amounts in the atmosphere, is isolated by fractionally distilling liquefied air, and is often used with other rare gases in fluorescent lamps.",
+            "summary": "Companies accelerate vesting of options on occurrence of any event. In a case where two events happen simultaneously, the vesting of options can be triggered and accelerated. Common examples of double trigger acceleration are - companies being restructured/acquired/merged/shut down with a resulting termination of employees. ",
             "symbol": "Kr",
             "xpos": 18,
             "ypos": 4,

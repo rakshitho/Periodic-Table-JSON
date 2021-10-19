@@ -2763,6 +2763,47 @@
          ],
          "cpk-hex":"c7ffc7"
       },
+	   {
+         "name":"DVR",
+         "appearance":"metallic",
+         "atomic_mass":145,
+         "boil":3273,
+         "category":"financing term",
+         "color":null,
+         "density":7.26,
+         "discovered_by":"Chien Shiung Wu",
+         "melt":1315,
+         "molar_heat":null,
+         "named_by":"Isotopes of promethium",
+         "number":61,
+         "period":6,
+         "phase":"Solid",
+         "source":"https://en.wikipedia.org/wiki/Promethium",
+         "spectral_img":null,
+         "summary":"Equity shares can be ordinary shares or may come with DVR. DVR shares give its holders voting rights different to that of the ordinary shareholders. The Articles of Association of the company must contain the clause that allows the company to issue shares with DVR.",
+         "symbol":"Reserved Matter",
+         "xpos":7,
+         "ypos":6,
+         "shells":[
+            2,
+            8,
+            18,
+            23,
+            8,
+            2
+         ],
+         "electron_configuration":"1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f5",
+         "electron_configuration_semantic":"[Xe] 4f5 6s2",
+         "electron_affinity":12.45,
+         "electronegativity_pauling":1.13,
+         "ionization_energies":[
+            540,
+            1050,
+            2150,
+            3970
+         ],
+         "cpk-hex":"a3ffc7"
+      },
       {
          "name":"Reserved Matter",
          "appearance":"metallic",
@@ -2782,7 +2823,7 @@
          "spectral_img":null,
          "summary":"The company has to provide material information to the shareholders that will allow them to take appropriate decisions on various matters relating to the company. Unless such approval is provided, the company cannot take any action. Some of the matters that would require approval include- Amendment to the memorandum and articles of the company; declaration of dividend, company restructuring, grant of incentives to the promoters etc. ",
          "symbol":"Reserved Matter",
-         "xpos":7,
+         "xpos":8,
          "ypos":6,
          "shells":[
             2,
@@ -2823,7 +2864,7 @@
          "spectral_img":null,
          "summary":"The power that minority shareholders have to override the decisions taken by the majority shareholders in the company is termed as veto rights. ",
          "symbol":"Veto Rights",
-         "xpos":8,
+         "xpos":9,
          "ypos":6,
          "shells":[
             2,
@@ -2864,7 +2905,7 @@
          "spectral_img":null,
          "summary":"Investors seek the right to receive certain kinds of information from the company on a periodic basis. This includes key metrics, MIS, any significant events etc. In addition, investors seek the right to carry out inspections, talk to vendors, employees, counsel, auditors etc., if they fear any foul play of any kind.",
          "symbol":"Information Rights",
-         "xpos":9,
+         "xpos":10,
          "ypos":6,
          "shells":[
             2,
@@ -2905,7 +2946,7 @@
          "spectral_img":null,
          "summary":"",
          "symbol":"CP",
-         "xpos":10,
+         "xpos":11,
          "ypos":6,
          "shells":[
             2,
@@ -2946,7 +2987,7 @@
          "spectral_img":null,
          "summary":"",
          "symbol":"CS",
-         "xpos":11,
+         "xpos":12,
          "ypos":6,
          "shells":[
             2,

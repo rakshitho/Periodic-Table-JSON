@@ -3968,25 +3968,25 @@
          ],
          "cpk-hex":"007d00"
       },
-      {
-         "name":"",
-         "appearance":null,
-         "atomic_mass":227,
-         "boil":3500,
+	   {
+         "name":"56 (2) (x)",
+         "appearance":"silvery white metallic",
+         "atomic_mass":226,
+         "boil":2010,
          "category":"compliances",
          "color":null,
-         "density":10,
-         "discovered_by":"Friedrich Oskar Giesel",
-         "melt":1500,
-         "molar_heat":27.2,
+         "density":5.5,
+         "discovered_by":"Pierre Curie",
+         "melt":1233,
+         "molar_heat":null,
          "named_by":null,
-         "number":89,
+         "number":88,
          "period":7,
          "phase":"Solid",
-         "source":"https://en.wikipedia.org/wiki/Actinium",
+         "source":"https://en.wikipedia.org/wiki/Radium",
          "spectral_img":null,
          "summary":"",
-         "symbol":"",
+         "symbol":"e-token",
          "xpos":12,
          "ypos":9,
          "shells":[
@@ -3995,19 +3995,20 @@
             18,
             32,
             18,
-            9,
+            8,
             2
          ],
-         "electron_configuration":"1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d1",
-         "electron_configuration_semantic":"[Rn] 6d1 7s2",
-         "electron_affinity":33.77,
-         "electronegativity_pauling":1.1,
+         "electron_configuration":"1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2",
+         "electron_configuration_semantic":"[Rn] 7s2",
+         "electron_affinity":9.6485,
+         "electronegativity_pauling":0.9,
          "ionization_energies":[
-            499,
-            1170
+            509.3,
+            979
          ],
-         "cpk-hex":"70abfa"
+         "cpk-hex":"007d00"
       },
+     
       {
          "name":"DPIIT",
          "appearance":null,

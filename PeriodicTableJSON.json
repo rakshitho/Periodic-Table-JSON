@@ -18,7 +18,7 @@
          "source":"https://www.youtube.com/embed/Q1z395u60xU?",
          "spectral_img":"https://cdn.corporatefinanceinstitute.com/assets/equity.png",
          "summary":"Equity is the difference between the assets and liabilities of the company. It represents ownership in the company.",
-         "symbol":"EQ",
+         "symbol":"Eq",
          "xpos":1,
          "ypos":1,
          "shells":[
@@ -51,7 +51,7 @@
          "source":"https://en.wikipedia.org/wiki/Helium",
          "spectral_img":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
          "summary":"",
-         "symbol":"SO",
+         "symbol":"So",
          "xpos":18,
          "ypos":1,
          "shells":[
@@ -85,7 +85,7 @@
          "source":"https://en.wikipedia.org/wiki/Lithium",
          "spectral_img":null,
          "summary":"CCPS provides investors the benefit of debt along with the economic risk of equity. CCPS convert to equity on a future predetermined time or on the request of the shareholder or if the conversion is linked to a future event, For example, a future round of financing or a performance metrics agreed with the investor. For a non-resident investor, mostly CCPS are offered.",
-         "symbol":"CCPS",
+         "symbol":"Cc",
          "xpos":1,
          "ypos":2,
          "shells":[
@@ -121,7 +121,7 @@
          "source":"https://en.wikipedia.org/wiki/Beryllium",
          "spectral_img":null,
          "summary":"Optionally Convertible Preference Shares(OCPS) give the holder  flexibility to either redeem the shares or convert to equity. Typically, the redemption or conversion is linked to a certain date or event.",
-         "symbol":"OCPS",
+         "symbol":"Oc",
          "xpos":2,
          "ypos":2,
          "shells":[
@@ -158,7 +158,7 @@
          "source":"https://en.wikipedia.org/wiki/Boron",
          "spectral_img":null,
          "summary":"",
-         "symbol":"OP",
+         "symbol":"Op",
          "xpos":13,
          "ypos":2,
          "shells":[
@@ -196,7 +196,7 @@
          "source":"https://en.wikipedia.org/wiki/Carbon",
          "spectral_img":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Hydrogen_Spectra.jpg",
          "summary":"Percentage of the company’s stock locked for issue to employees and other stakeholders in the future is termed as stock option pool.  Typically, the stock option pool is between 5- 15%.",
-         "symbol":"OPO",
+         "symbol":"Op",
          "xpos":14,
          "ypos":2,
          "shells":[
@@ -235,7 +235,7 @@
          "source":"https://en.wikipedia.org/wiki/Nitrogen",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Nitrogen_Spectra.jpg",
          "summary":"This is a form of stock option plan where the options do not convert to equity. Instead, the employees are paid an amount equivalent to the appreciated value of stock of the company. The appreciated value is the difference between the price of shares between the grant data and exercise date.",
-         "symbol":"SR",
+         "symbol":"Sr",
          "xpos":15,
          "ypos":2,
          "shells":[
@@ -275,7 +275,7 @@
          "source":"https://en.wikipedia.org/wiki/Oxygen",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Oxygen_spectre.jpg",
          "summary":"Under this plan, employees receive the right to purchase the shares of the company at a discounted value. This option is only available if the shares have been listed on a recognized stock exchange. Under this plan, an agreed percentage of the employee’s salary is deducted which is then aggregated to buy the company’s stock on scheduled dates in the future.",
-         "symbol":"ES",
+         "symbol":"Es",
          "xpos":16,
          "ypos":2,
          "shells":[
@@ -316,7 +316,7 @@
          "source":"https://en.wikipedia.org/wiki/Fluorine",
          "spectral_img":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Hydrogen_Spectra.jpg",
          "summary":"Companies can issue stock options under different plans. Under the trust plan, the legal ownership of shares is granted to a trust who will then issue the shares to the employees of the company.\n  Employees who are issued stock options under this plan are granted all economic benefits of ownership of shares while legal ownership remains with the Trust. ",
-         "symbol":"ET",
+         "symbol":"Et",
          "xpos":17,
          "ypos":2,
          "shells":[
@@ -358,7 +358,7 @@
          "source":"https://en.wikipedia.org/wiki/Neon",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Neon_spectra.jpg",
          "summary":"Management Stock Options are provided to the key managerial team of the company enabling them to receive the percentage of stock of the company upon exercise.",
-         "symbol":"MS",
+         "symbol":"Ms",
          "xpos":18,
          "ypos":2,
          "shells":[
@@ -401,7 +401,7 @@
          "source":"https://en.wikipedia.org/wiki/Sodium",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Sodium_Spectra.jpg",
          "summary":"Convertible notes are short term financing instruments that are mostly issued when the company wants to raise an interim round of financing. These notes are issued with an option for conversion to equity in the future. Usually, notes convert to equity based on a trigger factor. This could be a future round of financing, operation metrics, pure passage of time or at the discretion of the company. ",
-         "symbol":"NT",
+         "symbol":"Nt",
          "xpos":1,
          "ypos":3,
          "shells":[
@@ -446,7 +446,7 @@
          "source":"https://en.wikipedia.org/wiki/Magnesium",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Magnesium_Spectra.jpg",
          "summary":"SAFE is an instrument that allows the investor to receive shares for the money invested on the occurrence of a predetermined trigger event.",
-         "symbol":"SE",
+         "symbol":"Se",
          "xpos":2,
          "ypos":3,
          "shells":[
@@ -492,7 +492,7 @@
          "source":"https://en.wikipedia.org/wiki/Aluminium",
          "spectral_img":null,
          "summary":"Awarding stock options to the employees is called ‘Grant’. All the terms of the grant have to be captured in the grant letter. These terms mostly include- number of options being granted, cliff, grant date, grant price, vesting period, vesting conditions, exercise price, exercise period etc.",
-         "symbol":"GT",
+         "symbol":"Gt",
          "xpos":13,
          "ypos":3,
          "shells":[
@@ -539,7 +539,7 @@
          "source":"https://en.wikipedia.org/wiki/Silicon",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Silicon_Spectra.jpg",
          "summary":"Vesting is the process whereby the employee earns the right to purchase the shares of the company. An employee becomes eligible to vest options only when all the vesting conditions as specified in the grant letter have been met. These vesting conditions may be linked to time or performance.",
-         "symbol":"VT",
+         "symbol":"Vt",
          "xpos":14,
          "ypos":3,
          "shells":[
@@ -587,7 +587,7 @@
          "source":"https://en.wikipedia.org/wiki/Phosphorus",
          "spectral_img":null,
          "summary":" This is the time period over which the options granted  vest. ",
-         "symbol":"VS",
+         "symbol":"Vs",
          "xpos":15,
          "ypos":3,
          "shells":[
@@ -636,7 +636,7 @@
          "source":"https://en.wikipedia.org/wiki/Sulfur",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Sulfur_Spectrum.jpg",
          "summary":"This is the price at which the options can be sold in the market. ",
-         "symbol":"SP",
+         "symbol":"Sp",
          "xpos":16,
          "ypos":3,
          "shells":[
@@ -686,7 +686,7 @@
          "source":"https://en.wikipedia.org/wiki/Chlorine",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Chlorine_spectrum_visible.png",
          "summary":"Exercise is the right to purchase the shares of the company. Once the employees fulfil the vesting conditions provided in the ESOP plan, they can convert their options to the shares of the company. Shares are bought at the exercise price mentioned in the grant letter at the time of offering the shares to the employees. ",
-         "symbol":"EX",
+         "symbol":"Ex",
          "xpos":17,
          "ypos":3,
          "shells":[
@@ -737,7 +737,7 @@
          "source":"https://en.wikipedia.org/wiki/Argon",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Argon_Spectrum.png",
          "summary":"RSUs are a type of stock option plan that ensures allocation of a certain number of shares to the employee in the future, provided the employee fulfils certain restrictive conditions. These conditions are mainly related to performance, period of stay in the company or both. Once the employee meets these conditions, either shares or its cash equivalent is given as a reward. Under this plan, stock options can also be granted to the consultants or advisors of the company.",
-         "symbol":"RSU",
+         "symbol":"Rs",
          "xpos":18,
          "ypos":3,
          "shells":[
@@ -789,7 +789,7 @@
          "source":"https://en.wikipedia.org/wiki/Potassium",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Potassium_Spectrum.jpg",
          "summary":"CCDs are hybrid instruments that include both debt and equity components. The holders of CCDs receive interest on the debt component of the instrument with the added advantage of receiving equity on conversion. ",
-         "symbol":"CCD",
+         "symbol":"Cc",
          "xpos":1,
          "ypos":4,
          "shells":[
@@ -843,7 +843,7 @@
          "source":"https://en.wikipedia.org/wiki/Calcium",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Calcium_Spectrum.png",
          "summary":"NCD’s are debt instruments that do not carry an option to convert to equity. They are securities issued by the company acknowledging debt. The NCD holders receive interest for a fixed period of time. Companies issue NCDs if they want to raise capital without the need to issue equity, avoiding dilution in the shareholding of the existing shareholders altogether.",
-         "symbol":"NCD",
+         "symbol":"Nc",
          "xpos":2,
          "ypos":4,
          "shells":[
@@ -898,7 +898,7 @@
          "source":"https://en.wikipedia.org/wiki/Scandium",
          "spectral_img":null,
          "summary":"A term sheet is a non-binding commitment (usually, though not always) made by - (a) an investor to invest into a company, and (b) the company to accept such investment. The term sheet sets the base around which the shareholder agreement is crafted. It is therefore important that you are careful about what you sign. This does not mean that the term sheet is a gospel. Some changes are okay. Not too many.",
-         "symbol":"TS",
+         "symbol":"Ts",
          "xpos":3,
          "ypos":4,
          "shells":[
@@ -954,7 +954,7 @@
          "source":"https://en.wikipedia.org/wiki/Titanium",
          "spectral_img":null,
          "summary":"The shareholders’ agreement is a binding contract that governs the shareholders vis-a-vis the company and its shares. The terms in the shareholders agreement are binding to the parties of the investment deal. The common terms of a shareholders agreement include - the value of the company, securities being offered, ESOP pool, liquidation preference, anti-dilution, governance, voting rights, transfer of shares, exit rights etc. A well drafted shareholders agreement brings the parties of the investment on a common page ensuring clarity and smooth closing of the investment deal",
-         "symbol":"SHA",
+         "symbol":"Sh",
          "xpos":4,
          "ypos":4,
          "shells":[
@@ -1011,7 +1011,7 @@
          "source":"https://en.wikipedia.org/wiki/Vanadium",
          "spectral_img":null,
          "summary":"Share subscription agreement is the agreement executed between the company and the investor where the company guarantees to issue a certain number of shares to the investor in exchange for funds.",
-         "symbol":"SSA",
+         "symbol":"Ss",
          "xpos":5,
          "ypos":4,
          "shells":[
@@ -1069,7 +1069,7 @@
          "source":"https://en.wikipedia.org/wiki/Chromium",
          "spectral_img":null,
          "summary":"",
-         "symbol":"AOA",
+         "symbol":"Ao",
          "xpos":6,
          "ypos":4,
          "shells":[
@@ -1128,7 +1128,7 @@
          "source":"https://en.wikipedia.org/wiki/Manganese",
          "spectral_img":null,
          "summary":"Memorandum of Association is a legal document of the company that defines the operational scope of the company and contains details of its name, registered address, objectives, authorized capital, liability of the members and the subscribers to the memorandum. It is the charter of the company and is one of the most important document required to incorporate the company. All activities of the company must always be conducted within the operational scope defined in the memorandum.",
-         "symbol":"MOA",
+         "symbol":"Mo",
          "xpos":7,
          "ypos":4,
          "shells":[
@@ -1188,7 +1188,7 @@
          "source":"https://en.wikipedia.org/wiki/Iron",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Iron_Spectrum.jpg",
          "summary":"Pre-money valuation is the value of the company as agreed by the investor and the company prior to a new round of financing/investment. The valuation amount is set considering various factors like the company’s nature of business, revenue growth, sales, competitors, market etc.",
-         "symbol":"PM",
+         "symbol":"Pm",
          "xpos":8,
          "ypos":4,
          "shells":[
@@ -1249,7 +1249,7 @@
          "source":"https://en.wikipedia.org/wiki/Cobalt",
          "spectral_img":null,
          "summary":"The value of the company after a new round of financing is the post money valuation of the company. Post- money valuation is pre- money valuation of the company plus the investment amount received in the new round.",
-         "symbol":"PY",
+         "symbol":"Py",
          "xpos":9,
          "ypos":4,
          "shells":[
@@ -1311,7 +1311,7 @@
          "source":"https://en.wikipedia.org/wiki/Nickel",
          "spectral_img":null,
          "summary":"The dip in the shareholding percentage of the existing shareholders on account of the company raising a new round of funding, is termed as dilution.",
-         "symbol":"DL",
+         "symbol":"Dl",
          "xpos":10,
          "ypos":4,
          "shells":[
@@ -1374,7 +1374,7 @@
          "source":"https://en.wikipedia.org/wiki/Copper",
          "spectral_img":null,
          "summary":"When a company goes into liquidation, preference shareholders are entitled to return of capital invested by them. The liquidation preference clause provides the terms on when and how much of the capital will be returned to the shareholders in the event of liquidation. Standard terms are ‘Rank’ and ‘Participation’. /n  Rank decides the order in which the capital is returned to the investors. The preference shareholders are always ranked before the equity shareholders. /n Participation decides the amount of proceeds payable to the investors. This could be 1x, 2x of the capital amount invested etc.",
-         "symbol":"LP",
+         "symbol":"Lp",
          "xpos":11,
          "ypos":4,
          "shells":[
@@ -1438,7 +1438,7 @@
          "source":"https://en.wikipedia.org/wiki/Zinc",
          "spectral_img":null,
          "summary":"A right/provision given to an existing shareholder to avoid dilution of their equity holding when the company issues shares in a new round at a price lower than the price originally paid by the preference shareholder for the same class of shares.  The anti-dilution provision protects the shareholders and maintains their capital, compensating them on the basis of their existing shareholding in the company. New additional shares are issued to the existing shareholders based on the issue price of the shares in the new round. In these scenarios the dilution can be calculated either on full-ratchet basis or weighted average basis.",
-         "symbol":"AD",
+         "symbol":"Ad",
          "xpos":12,
          "ypos":4,
          "shells":[
@@ -1494,7 +1494,7 @@
          "source":"https://en.wikipedia.org/wiki/Gallium",
          "spectral_img":null,
          "summary":"Founders are often allotted stock options of the company for all efforts put in for the formation of the company. The terms of vesting are typically captured in the founders agreement. This is very important. ",
-         "symbol":"FV",
+         "symbol":"Fv",
          "xpos":13,
          "ypos":4,
          "shells":[
@@ -1533,7 +1533,7 @@
          "source":"https://en.wikipedia.org/wiki/Germanium",
          "spectral_img":null,
          "summary":"Investors insist that some or all of the shares held by the founders cannot be transferred without approval of the investors.  With each passing round, founders can request for a higher amount of liquidity. Later stage investors are often more comfortable providing liquidity to founders.",
-         "symbol":"LI",
+         "symbol":"Li",
          "xpos":14,
          "ypos":4,
          "shells":[
@@ -1573,7 +1573,7 @@
          "source":"https://en.wikipedia.org/wiki/Arsenic",
          "spectral_img":null,
          "summary":"Cliff is the minimum amount of time that has to pass before the options start to vest. In India, the minimum cliff period is one year. All ESOP plans mention the period of cliff. If at a given time, the employees leave the organization during the cliff period, then no options will vest. ",
-         "symbol":"CF",
+         "symbol":"Cf",
          "xpos":15,
          "ypos":4,
          "shells":[
@@ -1614,7 +1614,7 @@
          "source":"https://en.wikipedia.org/wiki/Selenium",
          "spectral_img":null,
          "summary":"An event that leads to conversion of stock to equity overruling the vesting conditions of the company i.e. the conversion of stock to equity happens before the expiration of the vesting period. Typical scenarios that lead to acceleration of stock options issale of the company, merger, demerger etc. ",
-         "symbol":"AC",
+         "symbol":"Ac",
          "xpos":16,
          "ypos":4,
          "shells":[
@@ -1656,7 +1656,7 @@
          "source":"https://en.wikipedia.org/wiki/Bromine",
          "spectral_img":null,
          "summary":"If the vesting happens on account of any single event or factor, then it is termed as a single trigger.",
-         "symbol":"ST",
+         "symbol":"St",
          "xpos":17,
          "ypos":4,
          "shells":[
@@ -1699,7 +1699,7 @@
          "source":"https://en.wikipedia.org/wiki/Krypton",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Krypton_Spectrum.jpg",
          "summary":"Warrants give the financial investors the right to convert their warrants to equity within a given time in the future. ",
-         "symbol":"DT",
+         "symbol":"Dt",
          "xpos":18,
          "ypos":4,
          "shells":[
@@ -1765,7 +1765,7 @@
          "source":"https://en.wikipedia.org/wiki/Rubidium",
          "spectral_img":null,
          "summary":"Warrants give the financial investors the right to convert their warrants to equity within a given time in the future.",
-         "symbol":"WT",
+         "symbol":"Wt",
          "xpos":1,
          "ypos":5,
          "shells":[
@@ -1811,7 +1811,7 @@
          "source":"https://en.wikipedia.org/wiki/Strontium",
          "spectral_img":null,
          "summary":"",
-         "symbol":"PPS",
+         "symbol":"Pp",
          "xpos":2,
          "ypos":5,
          "shells":[
@@ -1858,7 +1858,7 @@
          "source":"https://en.wikipedia.org/wiki/Yttrium",
          "spectral_img":null,
          "summary":"",
-         "symbol":"DR",
+         "symbol":"Dr",
          "xpos":3,
          "ypos":5,
          "shells":[
@@ -1906,7 +1906,7 @@
          "source":"https://en.wikipedia.org/wiki/Zirconium",
          "spectral_img":null,
          "summary":"The right available to the investors to participate in the sale of shares on the same terms as the founder. Typically, this is a right to participate on a pro-rata basis. However, in some circumstances, for instance, if the sale results in an acquirer acquiring control of the company, the investors expect to have the right to sell 100% of their shares.",
-         "symbol":"TG",
+         "symbol":"Tg",
          "xpos":4,
          "ypos":5,
          "shells":[
@@ -1948,7 +1948,7 @@
          "source":"https://en.wikipedia.org/wiki/Niobium",
          "spectral_img":null,
          "summary":"In an event that any of the founders or shareholders of the company wish to transfer their shares, the other existing investors will have a right of first refusal i.e., the investors can purchase such shares on a pro-rata basis at the same valuation and terms offered to a third party buyer. If the investors who hold the right to ROFR do not exercise their right to purchase the shares, then other investors can take up on the offer. ",
-         "symbol":"RO",
+         "symbol":"Ro",
          "xpos":5,
          "ypos":5,
          "shells":[
@@ -1991,7 +1991,7 @@
          "source":"https://en.wikipedia.org/wiki/Molybdenum",
          "spectral_img":null,
          "summary":"If any of the founders or other shareholders intend to transfer their shares, the existing investors of the company will have a right of first offer to purchase all or part of such shares being offered for sale. However, the selling shareholder can still transfer such shares to a third party, if the price quoted is higher than the price offered by the investors. ",
-         "symbol":"RF",
+         "symbol":"Rf",
          "xpos":6,
          "ypos":5,
          "shells":[
@@ -2057,7 +2057,7 @@
          "source":"https://en.wikipedia.org/wiki/Technetium",
          "spectral_img":null,
          "summary":"This is the right of minority shareholders to sell their part of shares with their portion of Shares to the same party and on the same terms as those offered to the Founders.",
-         "symbol":"CS",
+         "symbol":"Cs",
          "xpos":7,
          "ypos":5,
          "shells":[
@@ -2096,7 +2096,7 @@
          "source":"https://en.wikipedia.org/wiki/Ruthenium",
          "spectral_img":null,
          "summary":"The affirmative voting rights provide the investors protection from any decisions that the management may make detrimental to the interests of the investors. The rights are a part of the shareholders agreement and the company must get a minimum percentage of  approval from the investors to go forward with the matter./n  Common matters where the investors need to provide affirmative votes include; (i)mergers, demergers, amalgamations, consolidations; (ii) acquisition of other businesses by way of purchase of shares, business transfer, asset purchase and so on. ",
-         "symbol":"AR",
+         "symbol":"Ar",
          "xpos":8,
          "ypos":5,
          "shells":[
@@ -2135,7 +2135,7 @@
          "source":"https://en.wikipedia.org/wiki/Rhodium",
          "spectral_img":null,
          "summary":"This is the right provided to the investors at par with the equity shareholders of the company. For example, dividend pari-passu means, the non equity shareholders of the company receive the same ",
-         "symbol":"PP",
+         "symbol":"Pp",
          "xpos":9,
          "ypos":5,
          "shells":[
@@ -2174,7 +2174,7 @@
          "source":"https://en.wikipedia.org/wiki/Palladium",
          "spectral_img":null,
          "summary":"When the company raises additional funds in exchange for the shares of the company, the existing investors’ equity holding gets diluted. To avoid such dilution and maintain ownership, the existing investors can subscribe to the shares of the new round in proportion to their current shareholding calculated on a fully diluted basis. Pro rata ratio is calculated considering the number of shares currently owned by the investor to the total number of shares outstanding after exercising all sources of conversion.",
-         "symbol":"PR",
+         "symbol":"Pr",
          "xpos":10,
          "ypos":5,
          "shells":[
@@ -2212,7 +2212,7 @@
          "source":"https://en.wikipedia.org/wiki/Silver",
          "spectral_img":null,
          "summary":"Full Ratchet is an anti-dilution clause that protects the shareholders from dilution of their equity resulting from a future round of financing. If the company issues stock in the new round at a price lower than the price originally paid by the shareholder for the same class of stock, the existing shareholders can subscribe to the shares at the lower share price and prevent dilution of ownership.  Here, the conversion price is adjusted down to match the issuance price of shares in the new round.",
-         "symbol":"FR",
+         "symbol":"Fr",
          "xpos":11,
          "ypos":5,
          "shells":[
@@ -2251,7 +2251,7 @@
          "source":"https://en.wikipedia.org/wiki/Cadmium",
          "spectral_img":null,
          "summary":"This is a protection against any issue of shares by the company at a price lower than the price originally paid by any investor on a per share basis. The common weighted average methods  are - (a) Broad based weighted average, (b) Narrow based weighted average and (c) Full ratchet. ",
-         "symbol":"WA",
+         "symbol":"Wa",
          "xpos":12,
          "ypos":5,
          "shells":[
@@ -2330,7 +2330,7 @@
          "source":"https://en.wikipedia.org/wiki/Tin",
          "spectral_img":null,
          "summary":"In the money is the term that is used to refer to an option that can be purchased at the discretion of the buyer at a price lower than the current prevailing price of the option in the market, also known as strike price.",
-         "symbol":"IM",
+         "symbol":"Im",
          "xpos":14,
          "ypos":5,
          "shells":[
@@ -2371,7 +2371,7 @@
          "source":"https://en.wikipedia.org/wiki/Antimony",
          "spectral_img":null,
          "summary":"A capital gain is an appreciation in the value of an asset that creates income to the holder of the security. The capital gain can be a short term capital gain or long term capital gain. ",
-         "symbol":"CG",
+         "symbol":"Cg",
          "xpos":15,
          "ypos":5,
          "shells":[
@@ -2413,7 +2413,7 @@
          "source":"https://en.wikipedia.org/wiki/Tellurium",
          "spectral_img":null,
          "summary":"The difference between the bid price and the ask price of options is termed as spread. ",
-         "symbol":"SP",
+         "symbol":"Sp",
          "xpos":16,
          "ypos":5,
          "shells":[
@@ -2456,7 +2456,7 @@
          "source":"https://en.wikipedia.org/wiki/Iodine",
          "spectral_img":null,
          "summary":"Reverse vesting are conditions of vesting that are in place to keep a check on the founders from leaving the company with the company’s shares. Under the term, the founder has to sell his/her shareholding either partly or fully to the cofounders of the company.  ",
-         "symbol":"RV",
+         "symbol":"Rv",
          "xpos":17,
          "ypos":5,
          "shells":[
@@ -2495,7 +2495,7 @@
          "source":"https://en.wikipedia.org/wiki/Xenon",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Xenon_Spectrum.jpg",
          "summary":"Restricted stock are units of stock granted to the employees of a company whereby the employees will be allowed to vest the options only on meeting certain predetermined conditions. These conditions can be time based, performance based as decided by the company.",
-         "symbol":"RS",
+         "symbol":"Rs",
          "xpos":18,
          "ypos":5,
          "shells":[
@@ -2534,7 +2534,7 @@
          "source":"https://en.wikipedia.org/wiki/Cesium",
          "spectral_img":null,
          "summary":"In order to determine an individual investors’ shareholding pattern in the company, it is important to understand the total shares issued by the company. Fully Diluted Basis is the term used to describe the shareholding percent of the shareholders. Under this, the ownership holding of the shareholder is calculated considering the number of shares the shareholder owns to the shares issued by the company. Shares issued here include equity shares and dilutive instruments including stock options issued/reserved  assuming that they have been exercised or converted to equity. These terms are most often seen in the shareholders agreement, share subscription agreement, term sheet.  ",
-         "symbol":"FD",
+         "symbol":"Fd",
          "xpos":1,
          "ypos":6,
          "shells":[
@@ -2574,7 +2574,7 @@
          "source":"https://en.wikipedia.org/wiki/Barium",
          "spectral_img":null,
          "summary":"",
-         "symbol":"PR",
+         "symbol":"Pr",
          "xpos":2,
          "ypos":6,
          "shells":[
@@ -2614,7 +2614,7 @@
          "source":"https://en.wikipedia.org/wiki/Lanthanum",
          "spectral_img":null,
          "summary":"",
-         "symbol":"SD",
+         "symbol":"Sd",
          "xpos":3,
          "ypos":6,
          "shells":[
@@ -2656,7 +2656,7 @@
          "source":"https://en.wikipedia.org/wiki/Cerium",
          "spectral_img":null,
          "summary":"Funds raised from venture capitalists in exchange for shares of the company, is termed as venture debt.",
-         "symbol":"VD",
+         "symbol":"Vd",
          "xpos":4,
          "ypos":6,
          "shells":[
@@ -2699,7 +2699,7 @@
          "source":"https://en.wikipedia.org/wiki/Praseodymium",
          "spectral_img":null,
          "summary":"Repurchase of its own stock or bonds by the company is referred to as buy back. The company can buy back its shares either from the existing shareholders or from the open market.\n  Most often companies buy back shares to decrease the number of outstanding shares in the hands of investors. A company intending to buy back shares to the extent of 25% or more of its paid up capital or reserves has to pass a resolution approved by the shareholders. All resolutions passed in this regard also need to be intimated to the stock exchange.",
-         "symbol":"BB",
+         "symbol":"Bb",
          "xpos":5,
          "ypos":6,
          "shells":[
@@ -2741,7 +2741,7 @@
          "source":"https://en.wikipedia.org/wiki/Neodymium",
          "spectral_img":null,
          "summary":"Majority of shareholding changing hands results in change in the controllership of the company. This is often as a result of sale of more than 50% of the share by the management to an acquirer.",
-         "symbol":"CC",
+         "symbol":"Cc",
          "xpos":6,
          "ypos":6,
          "shells":[
@@ -2782,7 +2782,7 @@
          "source":"https://en.wikipedia.org/wiki/Promethium",
          "spectral_img":null,
          "summary":"Equity shares can be ordinary shares or may come with DVR. DVR shares give its holders voting rights different to that of the ordinary shareholders. The Articles of Association of the company must contain the clause that allows the company to issue shares with DVR.",
-         "symbol":"DR",
+         "symbol":"Dr",
          "xpos":7,
          "ypos":6,
          "shells":[
@@ -2823,7 +2823,7 @@
          "source":"https://en.wikipedia.org/wiki/Promethium",
          "spectral_img":null,
          "summary":"The company has to provide material information to the shareholders that will allow them to take appropriate decisions on various matters relating to the company. Unless such approval is provided, the company cannot take any action. Some of the matters that would require approval include- Amendment to the memorandum and articles of the company; declaration of dividend, company restructuring, grant of incentives to the promoters etc. ",
-         "symbol":"RM",
+         "symbol":"Rm",
          "xpos":8,
          "ypos":6,
          "shells":[
@@ -2864,7 +2864,7 @@
          "source":"https://en.wikipedia.org/wiki/Samarium",
          "spectral_img":null,
          "summary":"The power that minority shareholders have to override the decisions taken by the majority shareholders in the company is termed as veto rights. ",
-         "symbol":"VR",
+         "symbol":"Vr",
          "xpos":9,
          "ypos":6,
          "shells":[
@@ -2905,7 +2905,7 @@
          "source":"https://en.wikipedia.org/wiki/Europium",
          "spectral_img":null,
          "summary":"Investors seek the right to receive certain kinds of information from the company on a periodic basis. This includes key metrics, MIS, any significant events etc. In addition, investors seek the right to carry out inspections, talk to vendors, employees, counsel, auditors etc., if they fear any foul play of any kind.",
-         "symbol":"IR",
+         "symbol":"Ir",
          "xpos":10,
          "ypos":6,
          "shells":[
@@ -2946,7 +2946,7 @@
          "source":"https://en.wikipedia.org/wiki/Gadolinium",
          "spectral_img":null,
          "summary":"Various conditions must be satisfied prior to the closing of the investment deal. Some of it relates to corporate actions and some arise from due diligence. The director of the company has to provide a condition precedent certificate that states that all the required formalities to be followed for the purpose of due diligence have been met. ",
-         "symbol":"CP",
+         "symbol":"Cp",
          "xpos":11,
          "ypos":6,
          "shells":[
@@ -2987,7 +2987,7 @@
          "source":"https://en.wikipedia.org/wiki/Terbium",
          "spectral_img":null,
          "summary":"Instruments provided against short term debts taken by the company with the provision for conversion to equity after a given period of time. They are hybrid instruments with characteristics of both debt and equity.  Convertible securities can be debentures, preference shares or a convertible note.",
-         "symbol":"CS",
+         "symbol":"Cs",
          "xpos":12,
          "ypos":6,
          "shells":[
@@ -3028,7 +3028,7 @@
          "source":"https://en.wikipedia.org/wiki/Dysprosium",
          "spectral_img":null,
          "summary":"The profits of the firm are distributed to the shareholders as per the terms and conditions of the shareholders agreement.",
-         "symbol":"DD",
+         "symbol":"Dd",
          "xpos":1,
          "ypos":7,
          "shells":[
@@ -3069,7 +3069,7 @@
          "source":"https://en.wikipedia.org/wiki/Holmium",
          "spectral_img":null,
          "summary":"The difference between the par value of shares and the price at which the shares are issued for subscription is termed as premium.",
-         "symbol":"PM",
+         "symbol":"Pm",
          "xpos":2,
          "ypos":7,
          "shells":[
@@ -3110,7 +3110,7 @@
          "source":"https://en.wikipedia.org/wiki/Erbium",
          "spectral_img":null,
          "summary":"The maximum amount of capital that companies can raise is termed as authorized capital. The authorized capital is mentioned in the capital clause of the MOA. If the company at any given time wants to raise capital above the authorized capital amount, then it will need to amend the MOA.",
-         "symbol":"AC",
+         "symbol":"Ac",
          "xpos":3,
          "ypos":7,
          "shells":[
@@ -3151,7 +3151,7 @@
          "source":"https://en.wikipedia.org/wiki/Thulium",
          "spectral_img":null,
          "summary":"The portion of issued shares for which the company has received payment in exchange for the shares of the company is termed as paid up share capital.",
-         "symbol":"PC",
+         "symbol":"Pc",
          "xpos":4,
          "ypos":7,
          "shells":[
@@ -3192,7 +3192,7 @@
          "source":"https://en.wikipedia.org/wiki/Ytterbium",
          "spectral_img":null,
          "summary":"This is part of the authorized capital that has been subscribed by the investors of the company. ",
-         "symbol":"SC",
+         "symbol":"Sc",
          "xpos":5,
          "ypos":7,
          "shells":[
@@ -3233,7 +3233,7 @@
          "source":"https://en.wikipedia.org/wiki/Lutetium",
          "spectral_img":null,
          "summary":"It is the report containing the net worth of the company as calculated by a certified registered valuer.   ",
-         "symbol":"VR",
+         "symbol":"Vr",
          "xpos":6,
          "ypos":7,
          "shells":[
@@ -3275,7 +3275,7 @@
          "source":"https://en.wikipedia.org/wiki/Hafnium",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Hafnium_spectrum_visible.png",
          "summary":"Registered valuers are professionals who determine the value of the company based on various factors that include the company’s growth rate, financials, market, competitors, nature of the business etc. The registered valuers are mostly appointed by the company with the consent of the investor. The registered valuers fix the pre money valuation for the company for a round based on which the various terms of investment are decided.",
-         "symbol":"RV",
+         "symbol":"Rv",
          "xpos":7,
          "ypos":7,
          "shells":[
@@ -3316,7 +3316,7 @@
          "source":"https://en.wikipedia.org/wiki/Tantalum",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Tantalum_spectrum_visible.png",
          "summary":"Any individual participating or causing any event not in the best interests of the investors and not in compliance with the provisions/ arrangements set forth by the management or law is termed as material breach.",
-         "symbol":"MB",
+         "symbol":"Mb",
          "xpos":8,
          "ypos":7,
          "shells":[
@@ -3355,7 +3355,7 @@
          "source":"https://en.wikipedia.org/wiki/Tungsten",
          "spectral_img":null,
          "summary":"Private Placement is the offer of securities to a selected group of persons other than by way of public offer through the issue of a private placement offer letter. Under private placement, the offer letter for subscription (PAS-4) is sent to a maximum of 50 selected individuals excluding the employees of the company and qualified institutional buyers. All details of the private placement are maintained in Form PAS-5.",
-         "symbol":"PP",
+         "symbol":"Pp",
          "xpos":9,
          "ypos":7,
          "shells":[
@@ -3394,7 +3394,7 @@
          "source":"https://en.wikipedia.org/wiki/Rhenium",
          "spectral_img":null,
          "summary":"Rights provided to the existing shareholders to subscribe to the new shares of the company in proportion to their existing holding of shares in order to maintain capital is called a rights issue.",
-         "symbol":"RI",
+         "symbol":"Ri",
          "xpos":10,
          "ypos":7,
          "shells":[
@@ -3418,7 +3418,7 @@
          "cpk-hex":"267dab"
       },
       {
-         "name":"Bonus",
+         "name":"Bonus Issue",
          "appearance":"silvery, blue cast",
          "atomic_mass":190.233,
          "boil":5285,
@@ -3435,7 +3435,7 @@
          "source":"https://en.wikipedia.org/wiki/Osmium",
          "spectral_img":null,
          "summary":"These are shares provided to the shareholders of the company in proportion to the shares they hold as on date. These shares are issued free of cost from the accumulated profits of the company.",
-         "symbol":"BI",
+         "symbol":"Bi",
          "xpos":11,
          "ypos":7,
          "shells":[
@@ -3513,7 +3513,7 @@
          "source":"https://en.wikipedia.org/wiki/Platinum",
          "spectral_img":null,
          "summary":"The digital form of holding shares is termed as demat. Under the Depository System of holding shares, a Depository Entity registered with SEBI holds the securities of the Company in a Demat form. These Depositories appoint Depository Participants who are the middlemen between the investors and the Depository. All communications between the investors and the Depository are done through the Depository Participants.",
-         "symbol":"DT",
+         "symbol":"Dt",
          "xpos":13,
          "ypos":7,
          "shells":[
@@ -3552,7 +3552,7 @@
          "source":"https://en.wikipedia.org/wiki/Gold",
          "spectral_img":null,
          "summary":"A depository is a body that holds securities of investors in electronic form. This includes shares, debentures, bonds, Government Securities etc.",
-         "symbol":"DY",
+         "symbol":"Dy",
          "xpos":14,
          "ypos":7,
          "shells":[
@@ -3591,7 +3591,7 @@
          "source":"https://en.wikipedia.org/wiki/Mercury (Element)",
          "spectral_img":null,
          "summary":"RTAs are institutions that act as intermediaries between the investors and the financial institutions. They help maintain the records of the investors holding shares in the demat form. ",
-         "symbol":"RT",
+         "symbol":"Rt",
          "xpos":15,
          "ypos":7,
          "shells":[
@@ -3631,7 +3631,7 @@
          "source":"https://en.wikipedia.org/wiki/Thallium",
          "spectral_img":null,
          "summary":"",
-         "symbol":"EG",
+         "symbol":"Eg",
          "xpos":3,
          "ypos":9,
          "shells":[
@@ -3671,7 +3671,7 @@
          "source":"https://en.wikipedia.org/wiki/Lead_(element)",
          "spectral_img":null,
          "summary":"Under the Company’s Act, companies have to conduct the AGM mandatorily every year with the shareholders of the company. The company has to convene the AGM at least 21 days before the date on which the AGM is proposed to be held. If required, the meeting can be held at a shorter notice with the consent of 95% of members entitled to vote at such a meeting.",
-         "symbol":"AG",
+         "symbol":"Ag",
          "xpos":4,
          "ypos":9,
          "shells":[
@@ -3713,7 +3713,7 @@
          "source":"https://en.wikipedia.org/wiki/Bismuth",
          "spectral_img":null,
          "summary":"Any person appointed as a director by the board through an agreement or a board resolution to undertake all the roles and responsibilities assigned by the board from time to time.",
-         "symbol":"DR",
+         "symbol":"Dr",
          "xpos":5,
          "ypos":9,
          "shells":[
@@ -3756,7 +3756,7 @@
          "source":"https://en.wikipedia.org/wiki/Polonium",
          "spectral_img":null,
          "summary":"The Investor of the company can appoint an Observer to the Board. The Observers shall have the right to receive all Notices, documents and information provided to the Board members and be entitled to attend and speak at all meetings of the Board or committees. The Observer shall not be considered for quorum and cannot cast votes with respect to any resolution proposed to be passed at a Board meeting.",
-         "symbol":"BO",
+         "symbol":"Bo",
          "xpos":6,
          "ypos":9,
          "shells":[
@@ -3794,7 +3794,7 @@
          "source":"https://en.wikipedia.org/wiki/Polonium",
          "spectral_img":null,
          "summary":"All directors in India hold a unique number called the director’s identification number. The DIN remains the same irrespective of the number of companies in which the individual is a director. ",
-         "symbol":"DI",
+         "symbol":"Di",
          "xpos":7,
          "ypos":9,
          "shells":[
@@ -3832,7 +3832,7 @@
          "source":"https://en.wikipedia.org/wiki/Astatine",
          "spectral_img":null,
          "summary":"The Board members have to meet at least once every quarter. A notice has to be sent to the members of the board along with an agenda that specifies the details of the matters that will be discussed during the course of the meeting.",
-         "symbol":"BM",
+         "symbol":"Bm",
          "xpos":8,
          "ypos":9,
          "shells":[
@@ -3870,7 +3870,7 @@
          "source":"https://en.wikipedia.org/wiki/Radon",
          "spectral_img":"https://en.wikipedia.org/wiki/File:Radon_spectrum.png",
          "summary":"A formal notice along with the agenda has to be sent to the board members/shareholders to convene a meeting. ",
-         "symbol":"NO",
+         "symbol":"No",
          "xpos":9,
          "ypos":9,
          "shells":[
@@ -3908,7 +3908,7 @@
          "source":"https://en.wikipedia.org/wiki/Francium",
          "spectral_img":null,
          "summary":"The Shareholders must be notified of a meeting at least 21 days prior to the date of the meeting. If the management wants to hold the meeting less than that timeline, then atleast 95% of the participants must provide their consent to hold such a meeting at short notice. ",
-         "symbol":"SN",
+         "symbol":"Sn",
          "xpos":10,
          "ypos":9,
          "shells":[
@@ -3947,7 +3947,7 @@
          "source":"https://en.wikipedia.org/wiki/Radium",
          "spectral_img":null,
          "summary":"",
-         "symbol":"ET",
+         "symbol":"Et",
          "xpos":11,
          "ypos":9,
          "shells":[
@@ -4028,7 +4028,7 @@
          "source":"https://en.wikipedia.org/wiki/Actinium",
          "spectral_img":null,
          "summary":"Department for Promotion of Industry and Internal Trade is a central government body that falls under the Ministry of Commerce and Industry in India.  ",
-         "symbol":"DP",
+         "symbol":"Dp",
          "xpos":13,
          "ypos":9,
          "shells":[
@@ -4068,7 +4068,7 @@
          "source":"https://en.wikipedia.org/wiki/Thorium",
          "spectral_img":null,
          "summary":"An individual or an entity located outside India investing funds in an Indian entity in exchange for the securities of the company. Typically, the foreign investors prefer receiving preference shares for the funds invested. This gives them priority over the equity shareholders to receive the return of capital amount invested if the company goes into liquidation.   ",
-         "symbol":"FD",
+         "symbol":"Fd",
          "xpos":14,
          "ypos":9,
          "shells":[
@@ -4110,7 +4110,7 @@
          "source":"https://en.wikipedia.org/wiki/Protactinium",
          "spectral_img":null,
          "summary":"FEMA is a government body that regulates the foreign transactions in India. It mainly regulates the foreign exchange reserves and the inflow and outflow of investments between countries.",
-         "symbol":"FE",
+         "symbol":"Fe",
          "xpos":15,
          "ypos":9,
          "shells":[
@@ -4149,7 +4149,7 @@
          "source":"https://en.wikipedia.org/wiki/Uranium",
          "spectral_img":null,
          "summary":"RTAs are institutions that act as intermediaries between the investors and the financial institutions. They help maintain the records of the investors holding shares in the demat form. ",
-         "symbol":"RT",
+         "symbol":"Rt",
          "xpos":16,
          "ypos":9,
          "shells":[
@@ -4189,7 +4189,7 @@
          "source":"https://en.wikipedia.org/wiki/Neptunium",
          "spectral_img":null,
          "summary":"Share certificates are proof of holding shares in the company. They are issued in the name of the shareholder signed by at least two directors of the company and have a company seal. ",
-         "symbol":"SC",
+         "symbol":"Sc",
          "xpos":3,
          "ypos":10,
          "shells":[
@@ -4462,7 +4462,7 @@
          "source":"https://en.wikipedia.org/wiki/Fermium",
          "spectral_img":null,
          "summary":"Companies allotting shares in evidence of  foregin investments received have to inform the RBI of such transactions filing Form FC-GPR.",
-         "symbol":"FG",
+         "symbol":"Fg",
          "xpos":10,
          "ypos":10,
          "shells":[

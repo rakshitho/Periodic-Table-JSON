@@ -4443,7 +4443,7 @@
       "cpk-hex": "b31fd4"
     },
     {
-      "name": "FC GPR",
+      "name": "Foreign Currency Gross Provisional Return",
       "appearance": null,
       "atomic_mass": 257,
       "boil": null,
@@ -4460,7 +4460,7 @@
       "source":"null",
       "spectral_img":"null",
       "summary": "Companies allotting shares in evidence of  foregin investments received have to inform the RBI of such transactions filing Form FC-GPR.",
-      "symbol": "Foreign Currency Gross Provisional Return",
+      "symbol": "FC GPR",
       "xpos": 10,
       "ypos": 10,
       "shells": [

@@ -2368,7 +2368,7 @@
       "period": 5,
       "phase": "Solid",
       "source":"null",
-      "spectral_img":"null",
+      "spectral_img":"https://equion-dev.s3.us-west-2.amazonaws.com/esop-20.jpg",
       "summary": "A capital gain is an appreciation in the value of an asset that creates income to the holder of the security. The capital gain can be a short term capital gain or long term capital gain. ",
       "symbol": "Capital Gains",
       "xpos": 15,

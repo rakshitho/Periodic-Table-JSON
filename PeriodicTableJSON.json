@@ -3510,7 +3510,7 @@
       "period": 6,
       "phase": "Solid",
       "source":"null",
-      "spectral_img":"null",
+      "spectral_img":"https://equion-dev.s3.us-west-2.amazonaws.com/esop-19.jpg",
       "summary": "The digital form of holding shares is termed as demat. Under the Depository System of holding shares, a Depository Entity registered with SEBI holds the securities of the Company in a Demat form. These Depositories appoint Depository Participants who are the middlemen between the investors and the Depository. All communications between the investors and the Depository are done through the Depository Participants.",
       "symbol": "Demat",
       "xpos": 13,

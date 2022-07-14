@@ -1610,7 +1610,7 @@
 			"period": 4,
 			"phase": "Solid",
 			"source": "null",
-			"spectral_img": "null",
+			"spectral_img": "https://equion-dev.s3.us-west-2.amazonaws.com/acceleration.jpg",
 			"summary": "Employee stock option plans contain vesting schedules, which specify when options vest in favour of the holder (usually an employee). Once vested, the holder exercises the option (right) to purchase shares in the company, thus becoming a shareholder./A vesting schedule has milestones based on time or performance. Vesting usually follows the schedule without deviation./Sometimes however, vesting can be speeded up. This is ‘acceleration’ of vesting. When this happens, the schedule is bypassed and options vest even before the vesting period expires or the performance milestone is reached and option holders become shareholders earlier than agreed./Events that typically lead to acceleration of vesting – called triggers – are when the company is set to be listed on the stock exchange (IPO) or be sold or merged into another company (acquisition or merger), or a part of the company is being hived off (demerger). These are events in a company’s life that change its ownership, which can mean new conditions of employment (including vesting), with the possibility of employees being let go or opting to leave without being compensated as they expected, that is, share ownership./Acceleration of vesting (or accelerated vesting) prevents such consequences, and a portion (or whole) of the options will immediately vest.  ",
 			"symbol": "Acceleration",
 			"xpos": 16,

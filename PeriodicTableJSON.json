@@ -736,7 +736,7 @@
 			"phase": "Gas",
 			"source": "null",
 			"spectral_img": "null",
-			"summary": "Employees earn the right to exercise options granted to them by fulfilling the conditions stated in the ESOP plan and/or grant letter. Once the options vest, employees exercise their right to purchase the shares of the company within the stipulated duration mentioned in the grant letter. This is the exercise period. Failure to exercise before the exercise window closes will mean that the options lapse. ",
+			"summary": "Employees earn the right to exercise options granted to them by fulfilling the conditions stated in the ESOP plan and or grant letter. Once the options vest, employees exercise their right to purchase the shares of the company within the stipulated duration mentioned in the grant letter. This is the exercise period. Failure to exercise before the exercise window closes will mean that the options lapse. ",
 			"symbol": "Exercise Period",
 			"xpos": 18,
 			"ypos": 3,
@@ -4481,7 +4481,7 @@
 			"cpk-hex": "b31fd4"
 		},
 		{
-			"name": "e-token",
+			"name": "E-token",
 			"appearance": null,
 			"atomic_mass": 257,
 			"boil": null,
@@ -4498,7 +4498,7 @@
 			"source": "null",
 			"spectral_img": "null",
 			"summary": "E-token contains a digital signature, which is the electronic equivalent of a physical (wet-ink) signature. A digital signature can be used to sign any document or transaction electronically. A valid digital certificate is needed to create a digital signature. ",
-			"symbol": "e-token",
+			"symbol": "E-token",
 			"xpos": 10,
 			"ypos": 10,
 			"shells": [

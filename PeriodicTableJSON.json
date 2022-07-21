@@ -4208,7 +4208,7 @@
 			"cpk-hex": "b31fba"
 		},
 		{
-			"name": "Share Certifiate",
+			"name": "Share Certificate",
 			"appearance": "silvery metallic",
 			"atomic_mass": 237,
 			"boil": 4447,
@@ -4225,7 +4225,7 @@
 			"source": "null",
 			"spectral_img": "null",
 			"summary": "Share certificates are documents that constitute proof of shareholding in a company. They are issued in the name of the shareholder, and signed by at least two directors of the company. The company seal is affixed to the certificate./A share certificate is also a document of title and hence can be pledged./Under the law, the company must pay the prescribed stamp duty on the value of shares mentioned on the certificate.",
-			"symbol": "Share Certifiate",
+			"symbol": "Share Certificate",
 			"xpos": 3,
 			"ypos": 10,
 			"shells": [

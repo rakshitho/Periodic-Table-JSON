@@ -6,7 +6,6 @@
 			"boil": 20.271,
 			"category": "Securities",
 			"color": null,
-			
 
 			"density": 0.08988,
 			"discovered_by": "Henry Cavendish",
@@ -86,7 +85,7 @@
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Securities-08.jpg",
 			"summary": "CCPS are compulsorily convertible preference shares. They provide investors the benefit of debt along with the economic risk of equity./CCPS convert to equity at predetermined time in future, or at the request of the shareholder, or if the conversion is linked to a future event (for example, a future round of financing or performance metrics agreed with the investor)./CCPS are often issued to non-resident investors.",
-			"symbol": "Compulsorily Convertible Preference Shares ",
+			"symbol": "CCPS",
 			"xpos": 1,
 			"ypos": 2,
 			"shells": [
@@ -122,7 +121,7 @@
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Securities-05.jpg",
 			"summary": "Optionally convertible preference shares (OCPS) give their holders flexibility to either redeem the shares or convert to equity at a particular price. Typically, the redemption or conversion is linked to a certain date or event./Companies elect to raise funds by issuing OCPS, for flexibility in redeeming shares and returning funds, thus avoiding dilution of ownership for existing shareholders. Investors like to keep the option to convert to equity, and benefit from the increase in valuation of the company over the period of OCPS.",
-			"symbol": " Optionally Convertible Preferential Shares",
+			"symbol": " OCPS",
 			"xpos": 2,
 			"ypos": 2,
 			"shells": [
@@ -385,7 +384,7 @@
 			"cpk-hex": "b3e3f5"
 		},
 		{
-			"name": "Convertible Note",
+			"name": "Convertible Notes",
 			"appearance": "silvery white metallic",
 			"atomic_mass": 22.989769282,
 			"boil": 1156.09,
@@ -402,7 +401,7 @@
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Securities-11.jpg",
 			"summary": "Convertible notes are short-term financing instruments that are issued when the company wants to raise an interim round of financing. They are issued with an option for conversion to equity in the future. Usually, notes convert to equity based on a trigger event. This could be a future round of financing, operation metrics, pure passage of time or at the discretion of the company./Typically, the terms of issue of convertible notes cover aspects such as:/a. Details of conversion parameters/b. Rate of interest and type/c. Term (duration) of note/d. Terms of repayment/e. Discount on valuation during conversion/f. Cap on valuation during conversion",
-			"symbol": "Convertible Note",
+			"symbol": "Convertible Notes",
 			"xpos": 1,
 			"ypos": 3,
 			"shells": [
@@ -538,7 +537,7 @@
 			"period": 3,
 			"phase": "Solid",
 			"source": "null",
-			"spectral_img": "null",
+			"spectral_img": "https://rulezero.imgix.net/vesting%20.jpg",
 			"summary": "Vesting is a process by which an employee, who has been granted stock options in their company, earns the right to purchase the shares. An employee becomes eligible to exercise her options only when all the vesting conditions as specified in the grant letter have been met. These vesting conditions may be linked to time, performance, or an event.",
 			"symbol": "Vesting",
 			"xpos": 14,
@@ -844,7 +843,7 @@
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Securities-10.jpg",
 			"summary": "Non-convertible debenture (NCD) is a debt instrument that does not carry an option to convert to equity. They are securities issued by a debtor company, to acknowledge debt. NCD holders receive interest for a fixed duration. Companies issue NCDs if they want to raise capital without the need to issue equity, avoiding dilution for existing shareholders./1. Secured NCDs – NCDs are backed by the company's assets. If the company fails to make the payment on time, investors can recover their investment by liquidating the security./2. Unsecured NCDs –  no assets back up the loan. If the debtor company defaults, investors must wait until the company recovers and can pay back the principal amount. The advantage for holders however is that because of the higher risk, unsecured NCDs carry higher interest rates.",
-			"symbol": "Non-Convertible Debentures ",
+			"symbol": "Non Convertible Debentures ",
 			"xpos": 2,
 			"ypos": 4,
 			"shells": [
@@ -1517,7 +1516,7 @@
 			"cpk-hex": "c28f8f"
 		},
 		{
-			"name": "Lock-In Period",
+			"name": "Lock-in Period",
 			"appearance": "grayish-white",
 			"atomic_mass": 72.6308,
 			"boil": 3106,
@@ -1534,7 +1533,7 @@
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Lock%20-%20in.jpg",
 			"summary": "Lock-in period usually refers to a duration when certain actions are restricted. In the context of start-ups and founders’ commitments to investors, it’s seen that investors usually insist that the ability of founders to sell their shareholding in the company is restricted for a specified duration. With each new round of funding, however, founders can request for a higher amount of liquidity. Later-stage investors are often more comfortable providing liquidity to founders.",
-			"symbol": "Lock-In Period",
+			"symbol": "Lock-in Period",
 			"xpos": 14,
 			"ypos": 4,
 			"shells": [
@@ -1656,7 +1655,7 @@
 			"phase": "Liquid",
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Single%20Trigger.jpg",
-			"summary": "If the vesting of stock options accelerates based on the occurrence of a single event or a single factor, it is called a single trigger.",
+			"summary": "Employee stock option plans contain vesting schedules, which specify when options vest in favour of the holder (usually an employee). The vesting schedule provides the conditions of vesting like time, performance, or an event. However, few events may lead to overriding the terms in the vesting schedule thereby vesting options earlier than agreed./If the vesting of stock options accelerates based on the occurrence of a single event or a single factor, it is called a single trigger.",
 			"symbol": "Single Trigger",
 			"xpos": 17,
 			"ypos": 4,
@@ -1748,7 +1747,7 @@
 			"cpk-hex": "5cb8d1"
 		},
 		{
-			"name": "Warrant",
+			"name": "Warrants",
 			"appearance": "grey white",
 			"atomic_mass": 85.46783,
 			"boil": 961,
@@ -1764,8 +1763,8 @@
 			"phase": "Solid",
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Securities-02.jpg",
-			"summary": "Warrants are a type of convertible security that give their holders the right to purchase the underlying security at the price determined at the time of entering into the investment deal./There is no obligation on the investor to exercise the warrant and buy the underlying stock. ",
-			"symbol": "Warrant",
+			"summary": "Warrants are a type of convertible security that give their holders the right to purchase the underlying security at the price determined at the time of entering into the investment deal./There is no obligation on the investor to exercise the warrant and buy the underlying stock./Warrants convert on the occurrence of a trigger event. The trigger could be:/a. Time- Warrants convert as a result of pure passage of time./b. Event- The trigger factor is any future event like a future round of financing or an operation metrics agreed at the time of investment with the investor./Option- Here,  the conversion happens on the demand of the warrant holder or at the discretion of the company.",
+			"symbol": "Warrants",
 			"xpos": 1,
 			"ypos": 5,
 			"shells": [
@@ -2134,7 +2133,7 @@
 			"phase": "Solid",
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Financing%20terms-45.jpg",
-			"summary": "Every security issued to investors comes with its own set of terms, which provide its holders certain rights. This can be in relation to dividend rates, voting rights, liquidation preference, etc./The pari passu clause, when applied, makes it mandatory that all holders of a specific security must be treated on the same footing as equity shareholders./For example, pari passu dividend rights means that holders of non-equity shares of the company receive the same dividend as equity shareholders.",
+			"summary": "Pari passu is a common term found in transaction documents. The clause on pari passu, when applied, makes it mandatory that all holders of a specific security be treated on the same footing as equity shareholders./This clause is important because it ensures that no class of investor loses out when it comes to distribution of dividend or return of capital./For example, if pari passu is applicable in an event of liquidation, the holders of a particular class of security will be entitled to return of their capital, pari passu with the equity holders, or be entitled to pro rata return based on their ownership stake in the company.",
 			"symbol": "Pari Passu",
 			"xpos": 9,
 			"ypos": 5,
@@ -2157,7 +2156,7 @@
 			"cpk-hex": "0a7d8c"
 		},
 		{
-			"name": "Pro-rata",
+			"name": "Pro rata",
 			"appearance": "silvery white",
 			"atomic_mass": 106.421,
 			"boil": 3236,
@@ -2174,7 +2173,7 @@
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Pro%20rata%20(1).jpg",
 			"summary": "Pro rata means proportionate. It is a common term used in several investment documents. Pro rata can be applied to several contexts./For example, when companies raise additional funds by issuing shares, the existing investor can subscribe to additional shares in the new round in proportion to their current shareholding (pro rata), calculated on a fully diluted basis.",
-			"symbol": "Pro-rata",
+			"symbol": "Pro rata",
 			"xpos": 10,
 			"ypos": 5,
 			"shells": [
@@ -2412,7 +2411,7 @@
 			"phase": "Solid",
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Spread.jpg",
-			"summary": "The difference between the bid price and the ask price of options is called the spread. ",
+			"summary": "In options trading, bid is the price offered by a buyer to buy the options and ask is the price at which the seller wishes to sell the option./A bid-ask spread is the difference between the two prices (bid price and the ask price)/The size of the spread indicates the liquidity of the market and the size of the cost of the transaction. The larger the spread, the lesser the liquidity. ",
 			"symbol": "Spread",
 			"xpos": 16,
 			"ypos": 5,
@@ -2573,7 +2572,7 @@
 			"phase": "Solid",
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Securities-03.jpg",
-			"summary": "The founders decide the par value of stock at the time of incorporation. The par value is mentioned in the company’s charter documents.",
+			"summary": "This is the intrinsic value of the shares of a company. The founders decide the par value of stock at the time of incorporation. The par value is mentioned in the company’s charter documents./Par value is different from market value. Market value is the value at which the stock is trading currently in the market. No stock can be traded below the par value of the stock./While shares cannot be issued below its par value, the opposite is possible. If the issue price is more than the par value of shares then it is termed as premium. ",
 			"symbol": "PAR",
 			"xpos": 2,
 			"ypos": 6,
@@ -2806,7 +2805,7 @@
 			"cpk-hex": "a3ffc7"
 		},
 		{
-			"name": "Reserved Matter",
+			"name": "Reserved Matters",
 			"appearance": "metallic",
 			"atomic_mass": 145,
 			"boil": 3273,
@@ -2823,7 +2822,7 @@
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Financing%20terms-44.jpg",
 			"summary": "Investors need to protect the funds they have invested in a company. To do so, they need to exercise some control over its activities. This is why there are clauses in the shareholders agreement  which restrict management from taking certain business and operational decisions, unless the investors vote in their  favour.  These are called the investors’ ‘affirmative voting rights’. These protect investors and prevent any management action./Affirmative voting rights are important because investors are usually minority shareholders in a company and the majority has the shareholding percentage to push through certain decisions despite the investors’ objections. So, a contractual obligation to get the investors’ affirmative votes on certain ‘reserved matters’ is needed./These rights, also called ‘veto rights’, are typically exercised in critical matters such as amendments to a company’s charter documents, issue of new shares, appointment and removal of auditors, change of company’s name or registered office, disposal of company’s assets, investments in other entities, capital expenditure, acquisition of other businesses, company’s dissolution, corporate restructuring, and so on.",
-			"symbol": "Reserved Matter",
+			"symbol": "Reserved Matters",
 			"xpos": 8,
 			"ypos": 6,
 			"shells": [
@@ -2847,7 +2846,7 @@
 			"cpk-hex": "a3ffc7"
 		},
 		{
-			"name": "Veto Rights",
+			"name": "VETO Rights",
 			"appearance": "silvery white",
 			"atomic_mass": 150.362,
 			"boil": 2173,
@@ -2864,7 +2863,7 @@
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Veto%20Rights.jpg",
 			"summary": "A contractual right given to some shareholders (usually financial investors who have a minority stake) to override decisions taken by the majority (in shareholders’ meetings) or company management (in board meetings) is called a ‘veto’. A list of ‘reserved matters’ is usually agreed in writing, in which consent of minority shareholders is essential and in such matters, they can exercise their veto rights./For more details, see item titled ‘Affirmative votes’.",
-			"symbol": "Veto Rights",
+			"symbol": "VETO Rights",
 			"xpos": 9,
 			"ypos": 6,
 			"shells": [
@@ -3068,7 +3067,7 @@
 			"phase": "Solid",
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Securities-13.jpg",
-			"summary": "When the shares of a company are issued at a price that is higher than the par value, the amount exceeding the par value is called the premium./For example, if the par value of a company’s shares is INR 10 and new shares are issued at INR 15 per share, INR 5 is the premium. ",
+			"summary": "When the shares of a company are issued at a price that is higher than the par value, the amount exceeding the par value is called the premium./The company must credit the amount received towards the premium component of its issue in the share premium account. Companies can utilize the money in the share premium account only for reasons stated in its articles of association. Common examples include- issue of bonus shares, redemption of debentures and so on.",
 			"symbol": "Premium",
 			"xpos": 2,
 			"ypos": 7,
@@ -4028,8 +4027,8 @@
 			"phase": "Solid",
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/FEMA.jpg",
-			"summary": "FEMA is a government body that regulates the foreign transactions in India. It mainly regulates the foreign exchange reserves and the inflow and outflow of investments between countries.",
-			"symbol": "Foreign Exchange Management Act",
+			"summary": "FEMA refers to the Foreign Exchange Management Act. It is the legislation that regulates foreign exchange transactions in India, including inflow and outflow of foreign exchange and investments between India and other countries./An important compliance under FEMA that private companies must follow is filing the FLA ( Foreign Liabilities and Assets) Return. Companies have to file the FLA return with the RBI  if the company has received foreign direct investment or has made overseas investment in any of the previous year(s), including current year.",
+			"symbol": "FEMA",
 			"xpos": 15,
 			"ypos": 9,
 			"shells": [
@@ -4107,7 +4106,7 @@
 			"phase": "Solid",
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/FC-%20GPR.jpg",
-			"summary": "Every Indian company issuing securities to foreign investors must inform the Reserve Bank of India about it. Details of the transaction must be submitted by filing Form FC-GPR.",
+			"summary": "Every Indian company issuing securities to foreign investors must inform the Reserve Bank of India about it. Details include:/a. Type of security transferred /b. Date of the issue/c. Type of security issued/d. Face value, premium, issue price of the security./e. Transfer price or sale consideration/f. Pre and post transaction shareholding/g. Mode of payment.",
 			"symbol": "FC-GPR",
 			"xpos": 16,
 			"ypos": 9,

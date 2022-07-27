@@ -120,7 +120,7 @@
 			"phase": "Solid",
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Securities-05.jpg",
-			"summary": "Optionally convertible preference shares (OCPS) give their holders flexibility to either redeem the shares or convert to equity at a particular price. Typically, the redemption or conversion is linked to a certain date or event./Companies elect to raise funds by issuing OCPS, for flexibility in redeeming shares and returning funds, thus avoiding dilution of ownership for existing shareholders. Investors like to keep the option to convert to equity, and benefit from the increase in valuation of the company over the period of OCPS.",
+			"summary": "Optionally convertible preference shares (OCPS) give their holders flexibility to either redeem the shares or convert to equity at a particular price. Typically, the redemption or conversion is linked to a certain date or event./OCPS include an interest component, payable until the maturity date. Investors choose OCD when they want flexibility to either be issued equity in the company or want guaranteed return of their capital..",
 			"symbol": " OCPS",
 			"xpos": 2,
 			"ypos": 2,
@@ -1793,7 +1793,7 @@
 			"cpk-hex": "702eb0"
 		},
 		{
-			"name": "Partially Paid Shares",
+			"name": "Premium",
 			"appearance": null,
 			"atomic_mass": 87.621,
 			"boil": 1650,
@@ -1808,9 +1808,9 @@
 			"period": 5,
 			"phase": "Solid",
 			"source": "null",
-			"spectral_img": "https://rulezero.imgix.net/Securities-06.jpg",
-			"summary": "Shares issued by a company against which shareholders have only made partial payment are called partially paid shares./Some aspects affected by partly paid shares are:/1. Issue of bonus shares: A company cannot issue bonus shares unless shares are fully paid up./2. Transfer of partly paid shares: A company has to notify the transferee of partial payment and obtain a no objection certificate to record the transfer of such shares./3. Conversion: Convertible shares can be converted to equity only when they are fully paid up. ",
-			"symbol": "Partially Paid Shares",
+			"spectral_img": "https://rulezero.imgix.net/Securities-13.jpg",
+			"summary": "When the shares of a company are issued at a price that is higher than the par value, the amount exceeding the par value is called the premium./The company must credit the amount received towards the premium component of its issue in the share premium account. Companies can utilize the money in the share premium account only for reasons stated in its articles of association. Common examples include- issue of bonus shares, redemption of debentures and so on.",
+			"symbol": "Premium",
 			"xpos": 2,
 			"ypos": 5,
 			"shells": [
@@ -3010,6 +3010,47 @@
 			"cpk-hex": "30ffc7"
 		},
 		{
+			"name": "Partially Paid Amount",
+			"appearance": "silvery white",
+			"atomic_mass": 158.925352,
+			"boil": 3396,
+			"category": "Financing Term",
+			"color": null,
+			"density": 8.23,
+			"discovered_by": "Carl Gustaf Mosander",
+			"melt": 1629,
+			"molar_heat": 28.91,
+			"named_by": null,
+			"number": 65,
+			"period": 6,
+			"phase": "Solid",
+			"source": "null",
+			"spectral_img": "https://rulezero.imgix.net/Securities-06.jpg",
+			"summary": "Shares issued by a company against which shareholders have only made partial payment are called partially paid shares./Some aspects affected by partly paid shares are:/a. Issue of bonus shares: A company cannot issue bonus shares unless shares are fully paid up./b. Transfer of partly paid shares: A company has to notify the transferee of partial payment and obtain a no objection certificate to record the transfer of such shares./c. Conversion: Convertible shares can be converted to equity only when they are fully paid up.",
+			"symbol": "Partially Paid Amount",
+			"xpos": 13,
+			"ypos": 6,
+			"shells": [
+				2,
+				8,
+				18,
+				27,
+				8,
+				2
+			],
+			"electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f9",
+			"electron_configuration_semantic": "[Xe] 4f9 6s2",
+			"electron_affinity": 112.4,
+			"electronegativity_pauling": 1.1,
+			"ionization_energies": [
+				565.8,
+				1110,
+				2114,
+				3839
+			],
+			"cpk-hex": "30ffc7"
+		}
+		{
 			"name": "Dividend",
 			"appearance": "silvery white",
 			"atomic_mass": 162.5001,
@@ -3049,47 +3090,6 @@
 				3990
 			],
 			"cpk-hex": "1fffc7"
-		},
-		{
-			"name": "Premium",
-			"appearance": "silvery white",
-			"atomic_mass": 164.930332,
-			"boil": 2873,
-			"category": "Securities",
-			"color": null,
-			"density": 8.79,
-			"discovered_by": "Marc Delafontaine",
-			"melt": 1734,
-			"molar_heat": 27.15,
-			"named_by": null,
-			"number": 67,
-			"period": 6,
-			"phase": "Solid",
-			"source": "null",
-			"spectral_img": "https://rulezero.imgix.net/Securities-13.jpg",
-			"summary": "When the shares of a company are issued at a price that is higher than the par value, the amount exceeding the par value is called the premium./The company must credit the amount received towards the premium component of its issue in the share premium account. Companies can utilize the money in the share premium account only for reasons stated in its articles of association. Common examples include- issue of bonus shares, redemption of debentures and so on.",
-			"symbol": "Premium",
-			"xpos": 2,
-			"ypos": 7,
-			"shells": [
-				2,
-				8,
-				18,
-				29,
-				8,
-				2
-			],
-			"electron_configuration": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f11",
-			"electron_configuration_semantic": "[Xe] 4f11 6s2",
-			"electron_affinity": 32.61,
-			"electronegativity_pauling": 1.23,
-			"ionization_energies": [
-				581,
-				1140,
-				2204,
-				4100
-			],
-			"cpk-hex": "00ff9c"
 		},
 		{
 			"name": "Authorised Capital",
@@ -3315,7 +3315,7 @@
 			"source": "null",
 			"spectral_img": "https://rulezero.imgix.net/Financing%20terms-36.jpg",
 			"summary": "Merchant banks are institutions that provide loans, undertake portfolio management, underwriting services, and advisory services. They act as intermediaries between investors and companies and assist their clients in trading shares on the stock exchange.  ",
-			"symbol": "Merchant Bank",
+			"symbol": "Merchant Banker",
 			"xpos": 8,
 			"ypos": 7,
 			"shells": [
@@ -4065,7 +4065,7 @@
 			"period": 7,
 			"phase": "Solid",
 			"source": "null",
-			"spectral_img": "null",
+			"spectral_img": "https://rulezero.imgix.net/RTA.jpg",
 			"summary": "To dematerialise its shares, a company must pass a board resolution to convert its physical securities to demat. For this purpose, it must appoint a registrar and transfer agent (RTA) who will act as an intermediary to record and maintain transactions of the investors in the demat form./In case of secondary transactions of shares held in demat form, the RTA must get a confirmation from the company before approving the transfer. After this, the RTA can register the transfer in demat mode.",
 			"symbol": "Register and Transfer Agent",
 			"xpos": 12,
